@@ -1,0 +1,34 @@
+\subsubsection usage Usage
+\verbatim
+<node name="spherical_grasps_server" pkg="spherical_grasps_server" type="spherical_grasps_server">
+  <param name="grasp_postures_frame_id" type="str" value="arm_tool_link" />
+  <param name="gripper_joint_names" type="str" value="gripper_left_finger_joint gripper_right_finger_joint" />
+  <param name="gripper_pre_grasp_positions" type="str" value="0.05 0.05" />
+  <param name="gripper_grasp_positions" type="str" value="0.01 0.01" />
+  <param name="time_pre_grasp_posture" type="double" value="2.0" />
+  <param name="time_grasp_posture" type="double" value="2.0" />
+  <param name="time_grasp_posture_final" type="double" value="2.0" />
+  <param name="grasp_pose_frame_id" type="str" value="base_footprint" />
+  <param name="grasp_desired_distance" type="double" value="0.15" />
+  <param name="grasp_min_distance" type="double" value="0.0" />
+  <param name="pre_grasp_direction_x" type="double" value="1.0" />
+  <param name="pre_grasp_direction_y" type="double" value="0.0" />
+  <param name="pre_grasp_direction_z" type="double" value="0.0" />
+  <param name="post_grasp_direction_x" type="double" value="-1.0" />
+  <param name="post_grasp_direction_y" type="double" value="0.0" />
+  <param name="post_grasp_direction_z" type="double" value="0.0" />
+  <param name="grasp_quality" type="double" value="0.1" />
+  <param name="max_contact_force" type="double" value="0.0" />
+  <param name="allowed_touch_objects" type="str" value="" />
+  <param name="fix_tool_frame_to_grasping_frame_roll" type="double" value="0.0" />
+  <param name="fix_tool_frame_to_grasping_frame_pitch" type="double" value="0.0" />
+  <param name="fix_tool_frame_to_grasping_frame_yaw" type="double" value="0.0" />
+  <param name="step_degrees_yaw" type="int" value="10" />
+  <param name="step_degrees_pitch" type="int" value="10" />
+  <param name="min_degrees_yaw" type="int" value="0" />
+  <param name="max_degrees_yaw" type="int" value="360" />
+  <param name="min_degrees_pitch" type="int" value="0" />
+  <param name="max_degrees_pitch" type="int" value="360" />
+</node>
+\endverbatim
+

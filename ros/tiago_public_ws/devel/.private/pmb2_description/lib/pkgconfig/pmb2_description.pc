@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/pmb2_description
+
+Name: pmb2_description
+Description: Description of pmb2_description
+Version: 1.1.6
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/pmb2_description/lib 
+Requires: 

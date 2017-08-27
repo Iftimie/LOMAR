@@ -1,0 +1,14 @@
+aruco_ros/aruco_ros
+/home/iftimie/tiago_public_ws/devel/.private/aruco_ros/include/aruco_ros/ArucoThresholdConfig.h /home/iftimie/tiago_public_ws/devel/include/aruco_ros/ArucoThresholdConfig.h
+/home/iftimie/tiago_public_ws/devel/.private/aruco_ros/share/aruco_ros/cmake/aruco_rosConfig.cmake /home/iftimie/tiago_public_ws/devel/share/aruco_ros/cmake/aruco_rosConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/aruco_ros/share/aruco_ros/cmake/aruco_rosConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/aruco_ros/cmake/aruco_rosConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/aruco_ros/share/aruco_ros/docs/ArucoThresholdConfig.dox /home/iftimie/tiago_public_ws/devel/share/aruco_ros/docs/ArucoThresholdConfig.dox
+/home/iftimie/tiago_public_ws/devel/.private/aruco_ros/share/aruco_ros/docs/ArucoThresholdConfig.wikidoc /home/iftimie/tiago_public_ws/devel/share/aruco_ros/docs/ArucoThresholdConfig.wikidoc
+/home/iftimie/tiago_public_ws/devel/.private/aruco_ros/share/aruco_ros/docs/ArucoThresholdConfig-usage.dox /home/iftimie/tiago_public_ws/devel/share/aruco_ros/docs/ArucoThresholdConfig-usage.dox
+/home/iftimie/tiago_public_ws/devel/.private/aruco_ros/lib/python2.7/dist-packages/aruco_ros/__init__.py /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_ros/__init__.py
+/home/iftimie/tiago_public_ws/devel/.private/aruco_ros/lib/python2.7/dist-packages/aruco_ros/cfg/ArucoThresholdConfig.py /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_ros/cfg/ArucoThresholdConfig.py
+/home/iftimie/tiago_public_ws/devel/.private/aruco_ros/lib/python2.7/dist-packages/aruco_ros/cfg/__init__.py /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_ros/cfg/__init__.py
+/home/iftimie/tiago_public_ws/devel/.private/aruco_ros/lib/aruco_ros/single /home/iftimie/tiago_public_ws/devel/lib/aruco_ros/single
+/home/iftimie/tiago_public_ws/devel/.private/aruco_ros/lib/aruco_ros/marker_publisher /home/iftimie/tiago_public_ws/devel/lib/aruco_ros/marker_publisher
+/home/iftimie/tiago_public_ws/devel/.private/aruco_ros/lib/aruco_ros/double /home/iftimie/tiago_public_ws/devel/lib/aruco_ros/double
+/home/iftimie/tiago_public_ws/devel/.private/aruco_ros/lib/pkgconfig/aruco_ros.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/aruco_ros.pc

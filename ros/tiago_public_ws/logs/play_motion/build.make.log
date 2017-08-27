@@ -1,0 +1,19 @@
+[35m[1mScanning dependencies of target play_motion_helpers
+[0m[ 12%] [32mBuilding CXX object CMakeFiles/play_motion_helpers.dir/src/play_motion_helpers.cpp.o
+[0m[31m[1mLinking CXX shared library /home/iftimie/tiago_public_ws/devel/.private/play_motion/lib/libplay_motion_helpers.so
+[0m[ 12%] Built target play_motion_helpers
+[35m[1mScanning dependencies of target play_motion_msgs_generate_messages_cpp
+[0m[ 12%] Built target play_motion_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pm_rrbot
+[0m[ 25%] [32mBuilding CXX object CMakeFiles/pm_rrbot.dir/test/rrbot.cpp.o
+[0m[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/play_motion/lib/play_motion/pm_rrbot
+[0m[ 25%] Built target pm_rrbot
+[35m[1mScanning dependencies of target play_motion
+[0m[ 37%] [32mBuilding CXX object CMakeFiles/play_motion.dir/src/play_motion_main.cpp.o
+[0m[ 50%] [32mBuilding CXX object CMakeFiles/play_motion.dir/src/play_motion_server.cpp.o
+[0m[ 62%] [32mBuilding CXX object CMakeFiles/play_motion.dir/src/play_motion.cpp.o
+[0m[ 75%] [32mBuilding CXX object CMakeFiles/play_motion.dir/src/move_joint_group.cpp.o
+[0m[ 87%] [32mBuilding CXX object CMakeFiles/play_motion.dir/src/controller_updater.cpp.o
+[0m[100%] [32mBuilding CXX object CMakeFiles/play_motion.dir/src/approach_planner.cpp.o
+[0m[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/play_motion/lib/play_motion/play_motion
+[0m[100%] Built target play_motion

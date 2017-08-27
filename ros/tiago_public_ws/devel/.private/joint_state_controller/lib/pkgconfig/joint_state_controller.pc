@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/joint_state_controller
+
+Name: joint_state_controller
+Description: Description of joint_state_controller
+Version: 0.2.4
+Cflags: -I/home/iftimie/tiago_public_ws/src/ros_controllers/joint_state_controller/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/joint_state_controller/lib -ljoint_state_controller
+Requires: realtime_tools roscpp hardware_interface pluginlib controller_interface sensor_msgs

@@ -1,0 +1,4 @@
+tiago_robot/tiago_description
+/home/iftimie/tiago_public_ws/devel/.private/tiago_description/share/tiago_description/cmake/tiago_descriptionConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/tiago_description/cmake/tiago_descriptionConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/tiago_description/share/tiago_description/cmake/tiago_descriptionConfig.cmake /home/iftimie/tiago_public_ws/devel/share/tiago_description/cmake/tiago_descriptionConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/tiago_description/lib/pkgconfig/tiago_description.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/tiago_description.pc

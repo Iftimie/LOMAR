@@ -1,0 +1,5 @@
+ros_controllers/position_controllers
+/home/iftimie/tiago_public_ws/devel/.private/position_controllers/share/position_controllers/cmake/position_controllersConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/position_controllers/cmake/position_controllersConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/position_controllers/share/position_controllers/cmake/position_controllersConfig.cmake /home/iftimie/tiago_public_ws/devel/share/position_controllers/cmake/position_controllersConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/position_controllers/lib/libposition_controllers.so /home/iftimie/tiago_public_ws/devel/lib/libposition_controllers.so
+/home/iftimie/tiago_public_ws/devel/.private/position_controllers/lib/pkgconfig/position_controllers.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/position_controllers.pc

@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/pal_detection_msgs
+
+Name: pal_detection_msgs
+Description: Description of pal_detection_msgs
+Version: 0.11.3
+Cflags: -I/home/iftimie/tiago_public_ws/devel/.private/pal_detection_msgs/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/pal_detection_msgs/lib 
+Requires: message_runtime sensor_msgs geometry_msgs

@@ -1,0 +1,4 @@
+tiago_simulation/tiago_multi
+/home/iftimie/tiago_public_ws/devel/.private/tiago_multi/share/tiago_multi/cmake/tiago_multiConfig.cmake /home/iftimie/tiago_public_ws/devel/share/tiago_multi/cmake/tiago_multiConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/tiago_multi/share/tiago_multi/cmake/tiago_multiConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/tiago_multi/cmake/tiago_multiConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/tiago_multi/lib/pkgconfig/tiago_multi.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/tiago_multi.pc

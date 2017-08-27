@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/play_with_sensors
+
+Name: play_with_sensors
+Description: Description of play_with_sensors
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/play_with_sensors/lib 
+Requires: 

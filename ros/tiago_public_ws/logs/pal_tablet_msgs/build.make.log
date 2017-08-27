@@ -1,0 +1,25 @@
+[35m[1mScanning dependencies of target _pal_tablet_msgs_generate_messages_check_deps_FunctionalityStatus
+[0m[  0%] Built target _pal_tablet_msgs_generate_messages_check_deps_FunctionalityStatus
+[35m[1mScanning dependencies of target _pal_tablet_msgs_generate_messages_check_deps_RobotStatus
+[0m[  0%] Built target _pal_tablet_msgs_generate_messages_check_deps_RobotStatus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py
+[0m[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp
+[0m[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp
+[0m[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pal_tablet_msgs_generate_messages_py
+[0m[ 14%] [34m[1mGenerating Python from MSG pal_tablet_msgs/FunctionalityStatus
+[0m[ 28%] [34m[1mGenerating Python from MSG pal_tablet_msgs/RobotStatus
+[0m[ 42%] [34m[1mGenerating Python msg __init__.py for pal_tablet_msgs
+[0m[ 42%] Built target pal_tablet_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pal_tablet_msgs_generate_messages_cpp
+[0m[ 57%] [34m[1mGenerating C++ code from pal_tablet_msgs/FunctionalityStatus.msg
+[0m[ 71%] [34m[1mGenerating C++ code from pal_tablet_msgs/RobotStatus.msg
+[0m[ 71%] Built target pal_tablet_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pal_tablet_msgs_generate_messages_lisp
+[0m[ 85%] [34m[1mGenerating Lisp code from pal_tablet_msgs/FunctionalityStatus.msg
+[0m[100%] [34m[1mGenerating Lisp code from pal_tablet_msgs/RobotStatus.msg
+[0m[100%] Built target pal_tablet_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pal_tablet_msgs_generate_messages
+[0m[100%] Built target pal_tablet_msgs_generate_messages

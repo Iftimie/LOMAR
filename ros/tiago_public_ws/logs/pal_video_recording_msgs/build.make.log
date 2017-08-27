@@ -1,0 +1,19 @@
+[35m[1mScanning dependencies of target _pal_video_recording_msgs_generate_messages_check_deps_StartRecording
+[0m[  0%] Built target _pal_video_recording_msgs_generate_messages_check_deps_StartRecording
+[35m[1mScanning dependencies of target _pal_video_recording_msgs_generate_messages_check_deps_StopRecording
+[0m[  0%] Built target _pal_video_recording_msgs_generate_messages_check_deps_StopRecording
+[35m[1mScanning dependencies of target pal_video_recording_msgs_generate_messages_cpp
+[0m[ 14%] [34m[1mGenerating C++ code from pal_video_recording_msgs/StartRecording.srv
+[0m[ 28%] [34m[1mGenerating C++ code from pal_video_recording_msgs/StopRecording.srv
+[0m[ 28%] Built target pal_video_recording_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pal_video_recording_msgs_generate_messages_lisp
+[0m[ 42%] [34m[1mGenerating Lisp code from pal_video_recording_msgs/StartRecording.srv
+[0m[ 57%] [34m[1mGenerating Lisp code from pal_video_recording_msgs/StopRecording.srv
+[0m[ 57%] Built target pal_video_recording_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pal_video_recording_msgs_generate_messages_py
+[0m[ 71%] [34m[1mGenerating Python code from SRV pal_video_recording_msgs/StartRecording
+[0m[ 85%] [34m[1mGenerating Python code from SRV pal_video_recording_msgs/StopRecording
+[0m[100%] [34m[1mGenerating Python srv __init__.py for pal_video_recording_msgs
+[0m[100%] Built target pal_video_recording_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pal_video_recording_msgs_generate_messages
+[0m[100%] Built target pal_video_recording_msgs_generate_messages

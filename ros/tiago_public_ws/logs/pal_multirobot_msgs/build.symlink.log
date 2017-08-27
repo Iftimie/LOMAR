@@ -1,0 +1,13 @@
+Symlinking /home/iftimie/tiago_public_ws/devel/include/pal_multirobot_msgs/WifiServiceDetection.h
+Symlinking /home/iftimie/tiago_public_ws/devel/share/common-lisp/ros/pal_multirobot_msgs/msg/_package.lisp
+Symlinking /home/iftimie/tiago_public_ws/devel/share/common-lisp/ros/pal_multirobot_msgs/msg/pal_multirobot_msgs-msg.asd
+Symlinking /home/iftimie/tiago_public_ws/devel/share/common-lisp/ros/pal_multirobot_msgs/msg/_package_WifiServiceDetection.lisp
+Symlinking /home/iftimie/tiago_public_ws/devel/share/common-lisp/ros/pal_multirobot_msgs/msg/WifiServiceDetection.lisp
+Symlinking /home/iftimie/tiago_public_ws/devel/share/pal_multirobot_msgs/cmake/pal_multirobot_msgs-msg-paths.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/pal_multirobot_msgs/cmake/pal_multirobot_msgsConfig-version.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/pal_multirobot_msgs/cmake/pal_multirobot_msgs-msg-extras.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/pal_multirobot_msgs/cmake/pal_multirobot_msgsConfig.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/pal_multirobot_msgs/__init__.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/pal_multirobot_msgs/msg/_WifiServiceDetection.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/pal_multirobot_msgs/msg/__init__.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/pal_multirobot_msgs.pc

@@ -1,0 +1,51 @@
+[35m[1mScanning dependencies of target gazebo_harness
+[0m[ 16%] [32mBuilding CXX object CMakeFiles/gazebo_harness.dir/src/gazebo_harness.cpp.o
+/home/iftimie/tiago_public_ws/src/pal_gazebo_plugins/src/gazebo_harness.cpp: In member function ‘virtual void gazebo::GazeboHarness::Load(gazebo::physics::ModelPtr, sdf::ElementPtr)’:
+/home/iftimie/tiago_public_ws/src/pal_gazebo_plugins/src/gazebo_harness.cpp:74:81: warning: ‘std::string sdf::Element::GetValueString(const string&)’ is deprecated (declared at /usr/include/sdformat-1.4/sdf/SDFImpl.hh:226) [-Wdeprecated-declarations]
+       this->pinLink_ = this->robot_ptr_->GetLink(_sdf->GetValueString("pin_link"));
+                                                                                 ^
+In file included from /opt/ros/indigo/include/ros/ros.h:40:0,
+                 from /home/iftimie/tiago_public_ws/src/pal_gazebo_plugins/include/pal_gazebo_plugins/gazebo_harness.h:53,
+                 from /home/iftimie/tiago_public_ws/src/pal_gazebo_plugins/src/gazebo_harness.cpp:46:
+/home/iftimie/tiago_public_ws/src/pal_gazebo_plugins/src/gazebo_harness.cpp:75:81: warning: ‘std::string sdf::Element::GetValueString(const string&)’ is deprecated (declared at /usr/include/sdformat-1.4/sdf/SDFImpl.hh:226) [-Wdeprecated-declarations]
+       ROS_ERROR_STREAM("Got pin_link value: " << _sdf->GetValueString("pin_link"));
+                                                                                 ^
+/opt/ros/indigo/include/ros/console.h:353:64: note: in definition of macro ‘ROSCONSOLE_PRINT_STREAM_AT_LOCATION_WITH_FILTER’
+     __rosconsole_print_stream_at_location_with_filter__ss__ << args; \
+                                                                ^
+/opt/ros/indigo/include/ros/console.h:395:7: note: in expansion of macro ‘ROSCONSOLE_PRINT_STREAM_AT_LOCATION’
+       ROSCONSOLE_PRINT_STREAM_AT_LOCATION(args); \
+       ^
+/opt/ros/indigo/include/ros/console.h:565:43: note: in expansion of macro ‘ROS_LOG_STREAM_COND’
+ #define ROS_LOG_STREAM(level, name, args) ROS_LOG_STREAM_COND(true, level, name, args)
+                                           ^
+/opt/ros/indigo/include/rosconsole/macros_generated.h:215:32: note: in expansion of macro ‘ROS_LOG_STREAM’
+ #define ROS_ERROR_STREAM(args) ROS_LOG_STREAM(::ros::console::levels::Error, ROSCONSOLE_DEFAULT_NAME, args)
+                                ^
+/home/iftimie/tiago_public_ws/src/pal_gazebo_plugins/src/gazebo_harness.cpp:75:7: note: in expansion of macro ‘ROS_ERROR_STREAM’
+       ROS_ERROR_STREAM("Got pin_link value: " << _sdf->GetValueString("pin_link"));
+       ^
+[0m[31m[1mLinking CXX shared library /home/iftimie/tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_harness.so
+[0m[ 16%] Built target gazebo_harness
+[35m[1mScanning dependencies of target gazebo_pal_hand
+[0m[ 33%] [32mBuilding CXX object CMakeFiles/gazebo_pal_hand.dir/src/gazebo_pal_hand.cpp.o
+[0m[35m[1mScanning dependencies of target gazebo_ros_forcetorque
+[0m[ 50%] [32mBuilding CXX object CMakeFiles/gazebo_ros_forcetorque.dir/src/gazebo_ros_forcetorque.cpp.o
+[0m[31m[1mLinking CXX shared library /home/iftimie/tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_pal_hand.so
+[0m[ 50%] Built target gazebo_pal_hand
+[35m[1mScanning dependencies of target gazebo_underactuated_finger
+[0m[ 66%] [32mBuilding CXX object CMakeFiles/gazebo_underactuated_finger.dir/src/gazebo_underactuated_finger.cpp.o
+[0m[31m[1mLinking CXX shared library /home/iftimie/tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_ros_forcetorque.so
+[0m[ 66%] Built target gazebo_ros_forcetorque
+[35m[1mScanning dependencies of target pal_multirobot_msgs_generate_messages_cpp
+[0m[ 66%] Built target pal_multirobot_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target gazebo_world_odometry
+[0m[ 83%] [32mBuilding CXX object CMakeFiles/gazebo_world_odometry.dir/src/gazebo_world_odometry.cpp.o
+[0m[31m[1mLinking CXX shared library /home/iftimie/tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_underactuated_finger.so
+[0m[ 83%] Built target gazebo_underactuated_finger
+[35m[1mScanning dependencies of target gazebo_wifi_ap
+[0m[100%] [32mBuilding CXX object CMakeFiles/gazebo_wifi_ap.dir/src/gazebo_wifi_ap.cpp.o
+[0m[31m[1mLinking CXX shared library /home/iftimie/tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_world_odometry.so
+[0m[100%] Built target gazebo_world_odometry
+[31m[1mLinking CXX shared library /home/iftimie/tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_wifi_ap.so
+[0m[100%] Built target gazebo_wifi_ap

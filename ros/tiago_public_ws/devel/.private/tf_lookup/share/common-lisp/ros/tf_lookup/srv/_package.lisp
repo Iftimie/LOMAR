@@ -1,0 +1,10 @@
+(cl:defpackage tf_lookup-srv
+  (:use )
+  (:export
+   "LOOKUPTRANSFORM"
+   "<LOOKUPTRANSFORM-REQUEST>"
+   "LOOKUPTRANSFORM-REQUEST"
+   "<LOOKUPTRANSFORM-RESPONSE>"
+   "LOOKUPTRANSFORM-RESPONSE"
+  ))
+

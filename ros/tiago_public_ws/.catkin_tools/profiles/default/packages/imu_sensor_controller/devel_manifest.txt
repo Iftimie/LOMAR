@@ -1,0 +1,5 @@
+ros_controllers/imu_sensor_controller
+/home/iftimie/tiago_public_ws/devel/.private/imu_sensor_controller/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig.cmake /home/iftimie/tiago_public_ws/devel/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/imu_sensor_controller/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/imu_sensor_controller/lib/libimu_sensor_controller.so /home/iftimie/tiago_public_ws/devel/lib/libimu_sensor_controller.so
+/home/iftimie/tiago_public_ws/devel/.private/imu_sensor_controller/lib/pkgconfig/imu_sensor_controller.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/imu_sensor_controller.pc

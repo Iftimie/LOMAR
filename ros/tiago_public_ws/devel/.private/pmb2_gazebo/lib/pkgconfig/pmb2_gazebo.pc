@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/pmb2_gazebo
+
+Name: pmb2_gazebo
+Description: Description of pmb2_gazebo
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/pmb2_gazebo/lib 
+Requires: 

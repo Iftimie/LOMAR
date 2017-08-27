@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/transmission_interface
+
+Name: transmission_interface
+Description: Description of transmission_interface
+Version: 0.2.2
+Cflags: -I/home/iftimie/tiago_public_ws/src/ros_control/transmission_interface/include -I/usr/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/transmission_interface/lib -ltransmission_interface_parser -ltransmission_interface_loader -ltransmission_interface_loader_plugins -l:/usr/lib/x86_64-linux-gnu/libtinyxml.so
+Requires: pluginlib resource_retriever roscpp

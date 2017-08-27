@@ -1,0 +1,4 @@
+pmb2_robot/pmb2_bringup
+/home/iftimie/tiago_public_ws/devel/.private/pmb2_bringup/share/pmb2_bringup/cmake/pmb2_bringupConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/pmb2_bringup/cmake/pmb2_bringupConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/pmb2_bringup/share/pmb2_bringup/cmake/pmb2_bringupConfig.cmake /home/iftimie/tiago_public_ws/devel/share/pmb2_bringup/cmake/pmb2_bringupConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/pmb2_bringup/lib/pkgconfig/pmb2_bringup.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/pmb2_bringup.pc

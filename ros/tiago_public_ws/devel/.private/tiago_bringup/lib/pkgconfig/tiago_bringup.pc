@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/tiago_bringup
+
+Name: tiago_bringup
+Description: Description of tiago_bringup
+Version: 0.0.35
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/tiago_bringup/lib 
+Requires: 

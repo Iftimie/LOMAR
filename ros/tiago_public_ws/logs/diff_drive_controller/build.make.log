@@ -1,0 +1,34 @@
+[35m[1mScanning dependencies of target _diff_drive_controller_generate_messages_check_deps_WheelData
+[0m[  0%] Built target _diff_drive_controller_generate_messages_check_deps_WheelData
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp
+[0m[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py
+[0m[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp
+[0m[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target diffbot
+[0m[ 11%] [32mBuilding CXX object CMakeFiles/diffbot.dir/test/diffbot.cpp.o
+[0m[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/diff_drive_controller/lib/diff_drive_controller/diffbot
+[0m[ 11%] Built target diffbot
+[35m[1mScanning dependencies of target skidsteerbot
+[0m[ 22%] [32mBuilding CXX object CMakeFiles/skidsteerbot.dir/test/skidsteerbot.cpp.o
+[0m[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/diff_drive_controller/lib/diff_drive_controller/skidsteerbot
+[0m[ 22%] Built target skidsteerbot
+[35m[1mScanning dependencies of target diff_drive_controller_generate_messages_cpp
+[0m[ 33%] [34m[1mGenerating C++ code from diff_drive_controller/WheelData.msg
+[0m[ 33%] Built target diff_drive_controller_generate_messages_cpp
+[35m[1mScanning dependencies of target diff_drive_controller_generate_messages_py
+[0m[ 44%] [34m[1mGenerating Python from MSG diff_drive_controller/WheelData
+[0m[ 55%] [34m[1mGenerating Python msg __init__.py for diff_drive_controller
+[0m[ 55%] Built target diff_drive_controller_generate_messages_py
+[35m[1mScanning dependencies of target diff_drive_controller_generate_messages_lisp
+[0m[ 66%] [34m[1mGenerating Lisp code from diff_drive_controller/WheelData.msg
+[0m[ 66%] Built target diff_drive_controller_generate_messages_lisp
+[35m[1mScanning dependencies of target diff_drive_controller
+[0m[ 77%] [32mBuilding CXX object CMakeFiles/diff_drive_controller.dir/src/diff_drive_controller.cpp.o
+[0m[ 88%] [32mBuilding CXX object CMakeFiles/diff_drive_controller.dir/src/odometry.cpp.o
+[0m[100%] [32mBuilding CXX object CMakeFiles/diff_drive_controller.dir/src/speed_limiter.cpp.o
+[0m[31m[1mLinking CXX shared library /home/iftimie/tiago_public_ws/devel/.private/diff_drive_controller/lib/libdiff_drive_controller.so
+[0m[100%] Built target diff_drive_controller
+[35m[1mScanning dependencies of target diff_drive_controller_generate_messages
+[0m[100%] Built target diff_drive_controller_generate_messages

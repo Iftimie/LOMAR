@@ -1,0 +1,19 @@
+[35m[1mScanning dependencies of target transmission_interface_parser
+[0m[ 10%] [32mBuilding CXX object CMakeFiles/transmission_interface_parser.dir/src/transmission_parser.cpp.o
+[0m[31m[1mLinking CXX shared library /home/iftimie/tiago_public_ws/devel/.private/transmission_interface/lib/libtransmission_interface_parser.so
+[0m[ 10%] Built target transmission_interface_parser
+[35m[1mScanning dependencies of target transmission_interface_loader
+[0m[ 20%] [32mBuilding CXX object CMakeFiles/transmission_interface_loader.dir/src/transmission_loader.cpp.o
+[0m[ 30%] [32mBuilding CXX object CMakeFiles/transmission_interface_loader.dir/src/transmission_interface_loader.cpp.o
+[0m[31m[1mLinking CXX shared library /home/iftimie/tiago_public_ws/devel/.private/transmission_interface/lib/libtransmission_interface_loader.so
+[0m[ 30%] Built target transmission_interface_loader
+[35m[1mScanning dependencies of target transmission_interface_loader_plugins
+[0m[ 40%] [32mBuilding CXX object CMakeFiles/transmission_interface_loader_plugins.dir/src/simple_transmission_loader.cpp.o
+[0m[ 50%] [32mBuilding CXX object CMakeFiles/transmission_interface_loader_plugins.dir/src/differential_transmission_loader.cpp.o
+[0m[ 60%] [32mBuilding CXX object CMakeFiles/transmission_interface_loader_plugins.dir/src/four_bar_linkage_transmission_loader.cpp.o
+[0m[ 70%] [32mBuilding CXX object CMakeFiles/transmission_interface_loader_plugins.dir/src/joint_state_interface_provider.cpp.o
+[0m[ 80%] [32mBuilding CXX object CMakeFiles/transmission_interface_loader_plugins.dir/src/position_joint_interface_provider.cpp.o
+[0m[ 90%] [32mBuilding CXX object CMakeFiles/transmission_interface_loader_plugins.dir/src/velocity_joint_interface_provider.cpp.o
+[0m[100%] [32mBuilding CXX object CMakeFiles/transmission_interface_loader_plugins.dir/src/effort_joint_interface_provider.cpp.o
+[0m[31m[1mLinking CXX shared library /home/iftimie/tiago_public_ws/devel/.private/transmission_interface/lib/libtransmission_interface_loader_plugins.so
+[0m[100%] Built target transmission_interface_loader_plugins

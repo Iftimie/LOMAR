@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/look_to_point
+
+Name: look_to_point
+Description: Description of look_to_point
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/look_to_point/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/iftimie/tiago_public_ws/devel/.private/say_something/lib/pkgconfig/say_something.pc

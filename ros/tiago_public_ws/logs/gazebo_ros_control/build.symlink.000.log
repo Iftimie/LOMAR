@@ -1,0 +1,5 @@
+Symlinking /home/iftimie/tiago_public_ws/devel/share/gazebo_ros_control/cmake/gazebo_ros_controlConfig.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/gazebo_ros_control/cmake/gazebo_ros_controlConfig-version.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/libgazebo_ros_control.so
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/libdefault_robot_hw_sim.so
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/gazebo_ros_control.pc

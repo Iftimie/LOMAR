@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/say_something
+
+Name: say_something
+Description: Description of say_something
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/say_something/lib 
+Requires: 

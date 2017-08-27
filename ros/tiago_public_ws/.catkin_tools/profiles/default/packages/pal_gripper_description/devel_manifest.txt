@@ -1,0 +1,4 @@
+pal_gripper/pal_gripper_description
+/home/iftimie/tiago_public_ws/devel/.private/pal_gripper_description/share/pal_gripper_description/cmake/pal_gripper_descriptionConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/pal_gripper_description/cmake/pal_gripper_descriptionConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/pal_gripper_description/share/pal_gripper_description/cmake/pal_gripper_descriptionConfig.cmake /home/iftimie/tiago_public_ws/devel/share/pal_gripper_description/cmake/pal_gripper_descriptionConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/pal_gripper_description/lib/pkgconfig/pal_gripper_description.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/pal_gripper_description.pc

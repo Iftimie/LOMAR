@@ -1,0 +1,5 @@
+Symlinking /home/iftimie/tiago_public_ws/devel/share/aruco/cmake/arucoConfig-version.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/aruco/cmake/arucoConfig.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/libaruco.so
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/aruco/optimalmarkers
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/aruco.pc

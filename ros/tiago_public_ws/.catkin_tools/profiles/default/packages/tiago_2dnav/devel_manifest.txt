@@ -1,0 +1,4 @@
+tiago_navigation/tiago_2dnav
+/home/iftimie/tiago_public_ws/devel/.private/tiago_2dnav/share/tiago_2dnav/cmake/tiago_2dnavConfig.cmake /home/iftimie/tiago_public_ws/devel/share/tiago_2dnav/cmake/tiago_2dnavConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/tiago_2dnav/share/tiago_2dnav/cmake/tiago_2dnavConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/tiago_2dnav/cmake/tiago_2dnavConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/tiago_2dnav/lib/pkgconfig/tiago_2dnav.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/tiago_2dnav.pc

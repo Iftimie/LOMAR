@@ -1,0 +1,13 @@
+Symlinking /home/iftimie/tiago_public_ws/devel/include/aruco_ros/ArucoThresholdConfig.h
+Symlinking /home/iftimie/tiago_public_ws/devel/share/aruco_ros/cmake/aruco_rosConfig.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/aruco_ros/cmake/aruco_rosConfig-version.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/aruco_ros/docs/ArucoThresholdConfig.dox
+Symlinking /home/iftimie/tiago_public_ws/devel/share/aruco_ros/docs/ArucoThresholdConfig.wikidoc
+Symlinking /home/iftimie/tiago_public_ws/devel/share/aruco_ros/docs/ArucoThresholdConfig-usage.dox
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_ros/__init__.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_ros/cfg/ArucoThresholdConfig.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_ros/cfg/__init__.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/aruco_ros/single
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/aruco_ros/marker_publisher
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/aruco_ros/double
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/aruco_ros.pc

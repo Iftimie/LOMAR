@@ -1,0 +1,1 @@
+/home/iftimie/tiago_public_ws/devel/.private/tiago_aruco_demo/share/tiago_aruco_demo/cmake/tiago_aruco_demoConfig-version.cmake

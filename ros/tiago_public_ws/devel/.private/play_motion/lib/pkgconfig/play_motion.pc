@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/play_motion
+
+Name: play_motion
+Description: Description of play_motion
+Version: 0.4.3
+Cflags: -I/home/iftimie/tiago_public_ws/src/play_motion/play_motion/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/play_motion/lib -lplay_motion_helpers
+Requires: actionlib control_msgs controller_manager_msgs play_motion_msgs moveit_ros_planning_interface roscpp sensor_msgs

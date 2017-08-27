@@ -1,0 +1,6 @@
+tiago_tutorials/tiago_moveit_tutorial
+/home/iftimie/tiago_public_ws/devel/.private/tiago_moveit_tutorial/share/tiago_moveit_tutorial/cmake/tiago_moveit_tutorialConfig.cmake /home/iftimie/tiago_public_ws/devel/share/tiago_moveit_tutorial/cmake/tiago_moveit_tutorialConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/tiago_moveit_tutorial/share/tiago_moveit_tutorial/cmake/tiago_moveit_tutorialConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/tiago_moveit_tutorial/cmake/tiago_moveit_tutorialConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/tiago_moveit_tutorial/lib/tiago_moveit_tutorial/plan_arm_torso_ik /home/iftimie/tiago_public_ws/devel/lib/tiago_moveit_tutorial/plan_arm_torso_ik
+/home/iftimie/tiago_public_ws/devel/.private/tiago_moveit_tutorial/lib/tiago_moveit_tutorial/plan_arm_torso_fk /home/iftimie/tiago_public_ws/devel/lib/tiago_moveit_tutorial/plan_arm_torso_fk
+/home/iftimie/tiago_public_ws/devel/.private/tiago_moveit_tutorial/lib/pkgconfig/tiago_moveit_tutorial.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/tiago_moveit_tutorial.pc

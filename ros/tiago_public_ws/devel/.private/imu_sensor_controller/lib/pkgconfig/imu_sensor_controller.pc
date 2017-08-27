@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/imu_sensor_controller
+
+Name: imu_sensor_controller
+Description: Description of imu_sensor_controller
+Version: 0.2.4
+Cflags: -I/home/iftimie/tiago_public_ws/src/ros_controllers/imu_sensor_controller/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/imu_sensor_controller/lib -limu_sensor_controller
+Requires: controller_interface hardware_interface sensor_msgs realtime_tools

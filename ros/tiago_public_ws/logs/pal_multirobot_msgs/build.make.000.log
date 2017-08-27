@@ -1,0 +1,26 @@
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py
+[0m[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _pal_multirobot_msgs_generate_messages_check_deps_WifiServiceDetection
+[0m[  0%] Built target _pal_multirobot_msgs_generate_messages_check_deps_WifiServiceDetection
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py
+[0m[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp
+[0m[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp
+[0m[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp
+[0m[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp
+[0m[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pal_multirobot_msgs_generate_messages_py
+[0m[ 25%] [34m[1mGenerating Python from MSG pal_multirobot_msgs/WifiServiceDetection
+[0m[ 50%] [34m[1mGenerating Python msg __init__.py for pal_multirobot_msgs
+[0m[ 50%] Built target pal_multirobot_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pal_multirobot_msgs_generate_messages_lisp
+[0m[ 75%] [34m[1mGenerating Lisp code from pal_multirobot_msgs/WifiServiceDetection.msg
+[0m[ 75%] Built target pal_multirobot_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pal_multirobot_msgs_generate_messages_cpp
+[0m[100%] [34m[1mGenerating C++ code from pal_multirobot_msgs/WifiServiceDetection.msg
+[0m[100%] Built target pal_multirobot_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pal_multirobot_msgs_generate_messages
+[0m[100%] Built target pal_multirobot_msgs_generate_messages

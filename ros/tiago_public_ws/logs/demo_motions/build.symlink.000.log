@@ -1,0 +1,4 @@
+Symlinking /home/iftimie/tiago_public_ws/devel/share/demo_motions/cmake/demo_motionsConfig.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/demo_motions/cmake/demo_motionsConfig-version.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/demo_motions/run_loop_node
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/demo_motions.pc

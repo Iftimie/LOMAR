@@ -1,0 +1,13 @@
+\subsubsection usage Usage
+\verbatim
+<node name="tiago_pcl_tutorial" pkg="tiago_pcl_tutorial" type="tiago_pcl_tutorial">
+  <param name="enableDownSampling" type="bool" value="True" />
+  <param name="downSamplingLeafSize" type="double" value="0.01" />
+  <param name="minNeighbours" type="int" value="30" />
+  <param name="minClusterSize" type="int" value="50" />
+  <param name="maxClusterSize" type="int" value="1000000" />
+  <param name="smoothessThreshold" type="double" value="3.0" />
+  <param name="curvatureThreshold" type="double" value="1.0" />
+</node>
+\endverbatim
+

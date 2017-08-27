@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/tiago_moveit_tutorial
+
+Name: tiago_moveit_tutorial
+Description: Description of tiago_moveit_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/tiago_moveit_tutorial/lib 
+Requires: 

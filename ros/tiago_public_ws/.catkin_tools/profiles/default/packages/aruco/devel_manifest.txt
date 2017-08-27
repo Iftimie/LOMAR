@@ -1,0 +1,6 @@
+aruco_ros/aruco
+/home/iftimie/tiago_public_ws/devel/.private/aruco/share/aruco/cmake/arucoConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/aruco/cmake/arucoConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/aruco/share/aruco/cmake/arucoConfig.cmake /home/iftimie/tiago_public_ws/devel/share/aruco/cmake/arucoConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/aruco/lib/libaruco.so /home/iftimie/tiago_public_ws/devel/lib/libaruco.so
+/home/iftimie/tiago_public_ws/devel/.private/aruco/lib/aruco/optimalmarkers /home/iftimie/tiago_public_ws/devel/lib/aruco/optimalmarkers
+/home/iftimie/tiago_public_ws/devel/.private/aruco/lib/pkgconfig/aruco.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/aruco.pc

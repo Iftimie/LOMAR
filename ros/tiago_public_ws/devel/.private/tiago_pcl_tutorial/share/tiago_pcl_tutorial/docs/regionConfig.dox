@@ -1,0 +1,12 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~enableDownSampling" : \b [bool] Enable downsampling min: False, default: True, max: True
+- \b "~downSamplingLeafSize" : \b [double] Leaf size min: 0.005, default: 0.01, max: 0.9
+- \b "~minNeighbours" : \b [int] Min number of neighbourds min: 3, default: 30, max: 100
+- \b "~minClusterSize" : \b [int] Min number of points in cluster min: 1, default: 50, max: 1000
+- \b "~maxClusterSize" : \b [int] Max number of points in cluster min: 100, default: 1000000, max: 1000000
+- \b "~smoothessThreshold" : \b [double] Smoothness threshold in degrees min: 0.0, default: 3.0, max: 180.0
+- \b "~curvatureThreshold" : \b [double] Curvature threshold min: 0.0, default: 1.0, max: 5.0
+

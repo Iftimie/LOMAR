@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/pal_gripper_description
+
+Name: pal_gripper_description
+Description: Description of pal_gripper_description
+Version: 0.0.9
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/pal_gripper_description/lib 
+Requires: 

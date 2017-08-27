@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/tts
+
+Name: tts
+Description: Description of tts
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/tts/lib 
+Requires: 

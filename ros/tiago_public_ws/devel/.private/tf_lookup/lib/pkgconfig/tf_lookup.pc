@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/tf_lookup
+
+Name: tf_lookup
+Description: Description of tf_lookup
+Version: 0.0.1
+Cflags: -I/home/iftimie/tiago_public_ws/devel/.private/tf_lookup/include -I/home/iftimie/tiago_public_ws/src/tf_lookup/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/tf_lookup/lib 
+Requires: tf

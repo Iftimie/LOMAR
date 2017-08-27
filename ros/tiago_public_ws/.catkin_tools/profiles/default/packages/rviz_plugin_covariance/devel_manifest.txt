@@ -1,0 +1,5 @@
+rviz_plugin_covariance
+/home/iftimie/tiago_public_ws/devel/.private/rviz_plugin_covariance/share/rviz_plugin_covariance/cmake/rviz_plugin_covarianceConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/rviz_plugin_covariance/cmake/rviz_plugin_covarianceConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/rviz_plugin_covariance/share/rviz_plugin_covariance/cmake/rviz_plugin_covarianceConfig.cmake /home/iftimie/tiago_public_ws/devel/share/rviz_plugin_covariance/cmake/rviz_plugin_covarianceConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/rviz_plugin_covariance/lib/librviz_plugin_covariance.so /home/iftimie/tiago_public_ws/devel/lib/librviz_plugin_covariance.so
+/home/iftimie/tiago_public_ws/devel/.private/rviz_plugin_covariance/lib/pkgconfig/rviz_plugin_covariance.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/rviz_plugin_covariance.pc

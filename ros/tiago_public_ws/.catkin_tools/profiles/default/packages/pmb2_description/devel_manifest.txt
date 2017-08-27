@@ -1,0 +1,4 @@
+pmb2_robot/pmb2_description
+/home/iftimie/tiago_public_ws/devel/.private/pmb2_description/share/pmb2_description/cmake/pmb2_descriptionConfig.cmake /home/iftimie/tiago_public_ws/devel/share/pmb2_description/cmake/pmb2_descriptionConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/pmb2_description/share/pmb2_description/cmake/pmb2_descriptionConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/pmb2_description/cmake/pmb2_descriptionConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/pmb2_description/lib/pkgconfig/pmb2_description.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/pmb2_description.pc

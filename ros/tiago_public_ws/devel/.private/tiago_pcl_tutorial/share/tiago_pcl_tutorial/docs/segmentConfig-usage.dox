@@ -1,0 +1,14 @@
+\subsubsection usage Usage
+\verbatim
+<node name="tiago_pcl_tutorial" pkg="tiago_pcl_tutorial" type="tiago_pcl_tutorial">
+  <param name="setLeafSize_X" type="double" value="0.01" />
+  <param name="setLeafSize_Y" type="double" value="0.01" />
+  <param name="setLeafSize_Z" type="double" value="0.01" />
+  <param name="Distance_Threshold" type="double" value="0.01" />
+  <param name="Radius_Limit" type="double" value="0.01" />
+  <param name="Optimize_Coefficients" type="bool" value="True" />
+  <param name="image" type="int" value="1" />
+  <param name="method" type="int" value="1" />
+</node>
+\endverbatim
+

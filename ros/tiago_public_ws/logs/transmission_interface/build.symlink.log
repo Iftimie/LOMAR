@@ -1,0 +1,6 @@
+Symlinking /home/iftimie/tiago_public_ws/devel/share/transmission_interface/cmake/transmission_interfaceConfig.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/transmission_interface/cmake/transmission_interfaceConfig-version.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/libtransmission_interface_loader.so
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/libtransmission_interface_parser.so
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/libtransmission_interface_loader_plugins.so
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/transmission_interface.pc

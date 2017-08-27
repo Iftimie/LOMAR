@@ -1,0 +1,1 @@
+/home/iftimie/tiago_public_ws/devel/.private/pal_wifi_localization_msgs/lib/pkgconfig/pal_wifi_localization_msgs.pc

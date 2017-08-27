@@ -1,0 +1,4 @@
+tiago_tutorials/say_something
+/home/iftimie/tiago_public_ws/devel/.private/say_something/share/say_something/cmake/say_somethingConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/say_something/cmake/say_somethingConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/say_something/share/say_something/cmake/say_somethingConfig.cmake /home/iftimie/tiago_public_ws/devel/share/say_something/cmake/say_somethingConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/say_something/lib/pkgconfig/say_something.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/say_something.pc

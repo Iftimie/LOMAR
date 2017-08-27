@@ -1,0 +1,4 @@
+Symlinking /home/iftimie/tiago_public_ws/devel/share/rviz_plugin_covariance/cmake/rviz_plugin_covarianceConfig-version.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/rviz_plugin_covariance/cmake/rviz_plugin_covarianceConfig.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/librviz_plugin_covariance.so
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/rviz_plugin_covariance.pc

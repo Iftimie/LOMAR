@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/pal_vision_msgs
+
+Name: pal_vision_msgs
+Description: Description of pal_vision_msgs
+Version: 0.11.3
+Cflags: -I/home/iftimie/tiago_public_ws/devel/.private/pal_vision_msgs/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/pal_vision_msgs/lib 
+Requires: message_runtime sensor_msgs geometry_msgs actionlib_msgs

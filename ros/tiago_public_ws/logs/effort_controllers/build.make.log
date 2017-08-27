@@ -1,0 +1,7 @@
+[35m[1mScanning dependencies of target effort_controllers
+[0m[ 25%] [32mBuilding CXX object CMakeFiles/effort_controllers.dir/src/joint_effort_controller.cpp.o
+[0m[ 50%] [32mBuilding CXX object CMakeFiles/effort_controllers.dir/src/joint_velocity_controller.cpp.o
+[0m[ 75%] [32mBuilding CXX object CMakeFiles/effort_controllers.dir/src/joint_position_controller.cpp.o
+[0m[100%] [32mBuilding CXX object CMakeFiles/effort_controllers.dir/src/joint_group_effort_controller.cpp.o
+[0m[31m[1mLinking CXX shared library /home/iftimie/tiago_public_ws/devel/.private/effort_controllers/lib/libeffort_controllers.so
+[0m[100%] Built target effort_controllers

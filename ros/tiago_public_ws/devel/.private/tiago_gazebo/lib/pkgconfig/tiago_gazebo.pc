@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/tiago_gazebo
+
+Name: tiago_gazebo
+Description: Description of tiago_gazebo
+Version: 0.0.10
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/tiago_gazebo/lib 
+Requires: 

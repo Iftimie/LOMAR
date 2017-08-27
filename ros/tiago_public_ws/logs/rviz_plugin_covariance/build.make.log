@@ -1,0 +1,10 @@
+[ 14%] [34m[1mGenerating src/moc_odometry_display.cxx
+[0m[ 28%] [34m[1mGenerating src/moc_covariance_display.cxx
+[0m[35m[1mScanning dependencies of target rviz_plugin_covariance
+[0m[ 42%] [32mBuilding CXX object CMakeFiles/rviz_plugin_covariance.dir/src/covariance_visual.cpp.o
+[0m[ 57%] [32mBuilding CXX object CMakeFiles/rviz_plugin_covariance.dir/src/covariance_display.cpp.o
+[0m[ 71%] [32mBuilding CXX object CMakeFiles/rviz_plugin_covariance.dir/src/odometry_display.cpp.o
+[0m[ 85%] [32mBuilding CXX object CMakeFiles/rviz_plugin_covariance.dir/src/moc_covariance_display.cxx.o
+[0m[100%] [32mBuilding CXX object CMakeFiles/rviz_plugin_covariance.dir/src/moc_odometry_display.cxx.o
+[0m[31m[1mLinking CXX shared library /home/iftimie/tiago_public_ws/devel/.private/rviz_plugin_covariance/lib/librviz_plugin_covariance.so
+[0m[100%] Built target rviz_plugin_covariance

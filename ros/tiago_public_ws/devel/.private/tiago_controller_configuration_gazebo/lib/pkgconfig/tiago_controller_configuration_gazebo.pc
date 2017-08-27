@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/tiago_controller_configuration_gazebo
+
+Name: tiago_controller_configuration_gazebo
+Description: Description of tiago_controller_configuration_gazebo
+Version: 0.0.10
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/tiago_controller_configuration_gazebo/lib 
+Requires: 

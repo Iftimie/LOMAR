@@ -1,0 +1,42 @@
+[35m[1mScanning dependencies of target _pal_motion_model_msgs_generate_messages_check_deps_MotionModelMap
+[0m[  0%] Built target _pal_motion_model_msgs_generate_messages_check_deps_MotionModelMap
+[35m[1mScanning dependencies of target _pal_motion_model_msgs_generate_messages_check_deps_MotionModelList
+[0m[  0%] Built target _pal_motion_model_msgs_generate_messages_check_deps_MotionModelList
+[35m[1mScanning dependencies of target _pal_motion_model_msgs_generate_messages_check_deps_MotionModel
+[0m[  0%] Built target _pal_motion_model_msgs_generate_messages_check_deps_MotionModel
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp
+[0m[  0%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp
+[0m[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target _pal_motion_model_msgs_generate_messages_check_deps_GetMotionMap
+[0m[  0%] Built target _pal_motion_model_msgs_generate_messages_check_deps_GetMotionMap
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp
+[0m[  0%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp
+[0m[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py
+[0m[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py
+[0m[  0%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pal_motion_model_msgs_generate_messages_lisp
+[0m[  7%] [34m[1mGenerating Lisp code from pal_motion_model_msgs/MotionModel.msg
+[0m[ 14%] [34m[1mGenerating Lisp code from pal_motion_model_msgs/MotionModelList.msg
+[0m[ 21%] [34m[1mGenerating Lisp code from pal_motion_model_msgs/MotionModelMap.msg
+[0m[ 28%] [34m[1mGenerating Lisp code from pal_motion_model_msgs/GetMotionMap.srv
+[0m[ 28%] Built target pal_motion_model_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pal_motion_model_msgs_generate_messages_cpp
+[0m[ 35%] [34m[1mGenerating C++ code from pal_motion_model_msgs/MotionModel.msg
+[0m[ 42%] [34m[1mGenerating C++ code from pal_motion_model_msgs/MotionModelList.msg
+[0m[ 50%] [34m[1mGenerating C++ code from pal_motion_model_msgs/MotionModelMap.msg
+[0m[ 57%] [34m[1mGenerating C++ code from pal_motion_model_msgs/GetMotionMap.srv
+[0m[ 57%] Built target pal_motion_model_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pal_motion_model_msgs_generate_messages_py
+[0m[ 64%] [34m[1mGenerating Python from MSG pal_motion_model_msgs/MotionModel
+[0m[ 71%] [34m[1mGenerating Python from MSG pal_motion_model_msgs/MotionModelList
+[0m[ 78%] [34m[1mGenerating Python from MSG pal_motion_model_msgs/MotionModelMap
+[0m[ 85%] [34m[1mGenerating Python code from SRV pal_motion_model_msgs/GetMotionMap
+[0m[ 92%] [34m[1mGenerating Python msg __init__.py for pal_motion_model_msgs
+[0m[100%] [34m[1mGenerating Python srv __init__.py for pal_motion_model_msgs
+[0m[100%] Built target pal_motion_model_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pal_motion_model_msgs_generate_messages
+[0m[100%] Built target pal_motion_model_msgs_generate_messages

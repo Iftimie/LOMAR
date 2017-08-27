@@ -1,0 +1,5 @@
+Symlinking /home/iftimie/tiago_public_ws/devel/share/tiago_moveit_tutorial/cmake/tiago_moveit_tutorialConfig.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/tiago_moveit_tutorial/cmake/tiago_moveit_tutorialConfig-version.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/tiago_moveit_tutorial/plan_arm_torso_ik
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/tiago_moveit_tutorial/plan_arm_torso_fk
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/tiago_moveit_tutorial.pc

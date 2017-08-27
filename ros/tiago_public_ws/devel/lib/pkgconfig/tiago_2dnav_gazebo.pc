@@ -1,0 +1,1 @@
+/home/iftimie/tiago_public_ws/devel/.private/tiago_2dnav_gazebo/lib/pkgconfig/tiago_2dnav_gazebo.pc

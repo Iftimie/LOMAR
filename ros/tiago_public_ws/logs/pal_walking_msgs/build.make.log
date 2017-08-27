@@ -1,0 +1,37 @@
+[35m[1mScanning dependencies of target _pal_walking_msgs_generate_messages_check_deps_WalkingStep
+[0m[  0%] Built target _pal_walking_msgs_generate_messages_check_deps_WalkingStep
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py
+[0m[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _pal_walking_msgs_generate_messages_check_deps_WalkingStatus
+[0m[  0%] Built target _pal_walking_msgs_generate_messages_check_deps_WalkingStatus
+[35m[1mScanning dependencies of target _pal_walking_msgs_generate_messages_check_deps_WalkSteps
+[0m[  0%] Built target _pal_walking_msgs_generate_messages_check_deps_WalkSteps
+[35m[1mScanning dependencies of target humanoid_nav_msgs_generate_messages_py
+[0m[  0%] Built target humanoid_nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp
+[0m[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target humanoid_nav_msgs_generate_messages_cpp
+[0m[  0%] Built target humanoid_nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp
+[0m[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target humanoid_nav_msgs_generate_messages_lisp
+[0m[  0%] Built target humanoid_nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pal_walking_msgs_generate_messages_py
+[0m[  9%] [34m[1mGenerating Python from MSG pal_walking_msgs/WalkingStatus
+[0m[ 18%] [34m[1mGenerating Python from MSG pal_walking_msgs/WalkingStep
+[0m[ 27%] [34m[1mGenerating Python code from SRV pal_walking_msgs/WalkSteps
+[0m[ 36%] [34m[1mGenerating Python msg __init__.py for pal_walking_msgs
+[0m[ 45%] [34m[1mGenerating Python srv __init__.py for pal_walking_msgs
+[0m[ 45%] Built target pal_walking_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pal_walking_msgs_generate_messages_cpp
+[0m[ 54%] [34m[1mGenerating C++ code from pal_walking_msgs/WalkingStatus.msg
+[0m[ 63%] [34m[1mGenerating C++ code from pal_walking_msgs/WalkingStep.msg
+[0m[ 72%] [34m[1mGenerating C++ code from pal_walking_msgs/WalkSteps.srv
+[0m[ 72%] Built target pal_walking_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pal_walking_msgs_generate_messages_lisp
+[0m[ 81%] [34m[1mGenerating Lisp code from pal_walking_msgs/WalkingStatus.msg
+[0m[ 90%] [34m[1mGenerating Lisp code from pal_walking_msgs/WalkingStep.msg
+[0m[100%] [34m[1mGenerating Lisp code from pal_walking_msgs/WalkSteps.srv
+[0m[100%] Built target pal_walking_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pal_walking_msgs_generate_messages
+[0m[100%] Built target pal_walking_msgs_generate_messages

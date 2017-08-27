@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/pal_navigation_sm
+
+Name: pal_navigation_sm
+Description: Description of pal_navigation_sm
+Version: 0.1.7
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/pal_navigation_sm/lib 
+Requires: 

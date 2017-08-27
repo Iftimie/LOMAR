@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/forward_command_controller
+
+Name: forward_command_controller
+Description: Description of forward_command_controller
+Version: 0.2.4
+Cflags: -I/home/iftimie/tiago_public_ws/src/ros_controllers/forward_command_controller/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/forward_command_controller/lib 
+Requires: controller_interface hardware_interface std_msgs

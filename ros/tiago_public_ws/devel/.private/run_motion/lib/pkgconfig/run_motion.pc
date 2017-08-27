@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/run_motion
+
+Name: run_motion
+Description: Description of run_motion
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/run_motion/lib 
+Requires: 

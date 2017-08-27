@@ -1,0 +1,13 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~setLeafSize_X" : \b [double] A double parameter min: 0.0, default: 0.01, max: 0.1
+- \b "~setLeafSize_Y" : \b [double] A double parameter min: 0.0, default: 0.01, max: 0.1
+- \b "~setLeafSize_Z" : \b [double] A double parameter min: 0.0, default: 0.01, max: 0.1
+- \b "~Distance_Threshold" : \b [double] A double parameter min: 0.0, default: 0.01, max: 8.0
+- \b "~Radius_Limit" : \b [double] A double parameter min: 0.0, default: 0.01, max: 8.0
+- \b "~Optimize_Coefficients" : \b [bool] A bool parameter min: False, default: True, max: True
+- \b "~image" : \b [int] A PointCloud2 origin param which is edited via an enum min: 0, default: 1, max: 3
+- \b "~method" : \b [int] A PointCloud2 origin param which is edited via an enum min: 0, default: 1, max: 3
+

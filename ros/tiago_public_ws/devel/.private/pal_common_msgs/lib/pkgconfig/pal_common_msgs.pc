@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/pal_common_msgs
+
+Name: pal_common_msgs
+Description: Description of pal_common_msgs
+Version: 0.11.3
+Cflags: -I/home/iftimie/tiago_public_ws/devel/.private/pal_common_msgs/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/pal_common_msgs/lib 
+Requires: actionlib_msgs std_msgs message_runtime

@@ -1,0 +1,17 @@
+Symlinking /home/iftimie/tiago_public_ws/devel/include/aruco_msgs/MarkerArray.h
+Symlinking /home/iftimie/tiago_public_ws/devel/include/aruco_msgs/Marker.h
+Symlinking /home/iftimie/tiago_public_ws/devel/share/aruco_msgs/cmake/aruco_msgs-msg-paths.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/aruco_msgs/cmake/aruco_msgsConfig.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/aruco_msgs/cmake/aruco_msgs-msg-extras.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/aruco_msgs/cmake/aruco_msgsConfig-version.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/_package.lisp
+Symlinking /home/iftimie/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/MarkerArray.lisp
+Symlinking /home/iftimie/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/_package_MarkerArray.lisp
+Symlinking /home/iftimie/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/_package_Marker.lisp
+Symlinking /home/iftimie/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/aruco_msgs-msg.asd
+Symlinking /home/iftimie/tiago_public_ws/devel/share/common-lisp/ros/aruco_msgs/msg/Marker.lisp
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_msgs/__init__.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_msgs/msg/_Marker.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_msgs/msg/_MarkerArray.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/aruco_msgs/msg/__init__.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/aruco_msgs.pc

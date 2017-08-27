@@ -1,0 +1,111 @@
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_TfLookupActionFeedback
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_TfLookupActionFeedback
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_TfLookupActionResult
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_TfLookupActionResult
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_TfStreamActionResult
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_TfStreamActionResult
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_TfLookupFeedback
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_TfLookupFeedback
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_TfStreamAction
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_TfStreamAction
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp
+[0m[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp
+[0m[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_TfLookupAction
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_TfLookupAction
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_TfLookupResult
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_TfLookupResult
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_TfStreamActionFeedback
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_TfStreamActionFeedback
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_TfLookupActionGoal
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_TfLookupActionGoal
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_TfStreamGoal
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_TfStreamGoal
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_TfStreamResult
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_TfStreamResult
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_TfStreamActionGoal
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_TfStreamActionGoal
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_Subscription
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_Subscription
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_TfStreamFeedback
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_TfStreamFeedback
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_TfLookupGoal
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_TfLookupGoal
+[35m[1mScanning dependencies of target _tf_lookup_generate_messages_check_deps_lookupTransform
+[0m[  0%] Built target _tf_lookup_generate_messages_check_deps_lookupTransform
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp
+[0m[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp
+[0m[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py
+[0m[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py
+[0m[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf_lookup_generate_messages_cpp
+[0m[  1%] [34m[1mGenerating C++ code from tf_lookup/TfLookupFeedback.msg
+[0m[  3%] [34m[1mGenerating C++ code from tf_lookup/TfStreamAction.msg
+[0m[  5%] [34m[1mGenerating C++ code from tf_lookup/TfStreamActionFeedback.msg
+[0m[  7%] [34m[1mGenerating C++ code from tf_lookup/TfLookupGoal.msg
+[0m[  9%] [34m[1mGenerating C++ code from tf_lookup/TfStreamActionResult.msg
+[0m[ 11%] [34m[1mGenerating C++ code from tf_lookup/TfLookupResult.msg
+[0m[ 12%] [34m[1mGenerating C++ code from tf_lookup/TfLookupActionResult.msg
+[0m[ 14%] [34m[1mGenerating C++ code from tf_lookup/TfLookupAction.msg
+[0m[ 16%] [34m[1mGenerating C++ code from tf_lookup/TfLookupActionFeedback.msg
+[0m[ 18%] [34m[1mGenerating C++ code from tf_lookup/TfStreamResult.msg
+[0m[ 20%] [34m[1mGenerating C++ code from tf_lookup/TfLookupActionGoal.msg
+[0m[ 22%] [34m[1mGenerating C++ code from tf_lookup/TfStreamActionGoal.msg
+[0m[ 24%] [34m[1mGenerating C++ code from tf_lookup/Subscription.msg
+[0m[ 25%] [34m[1mGenerating C++ code from tf_lookup/TfStreamFeedback.msg
+[0m[ 27%] [34m[1mGenerating C++ code from tf_lookup/TfStreamGoal.msg
+[0m[ 29%] [34m[1mGenerating C++ code from tf_lookup/lookupTransform.srv
+[0m[ 29%] Built target tf_lookup_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_lookup_generate_messages_lisp
+[0m[ 31%] [34m[1mGenerating Lisp code from tf_lookup/TfLookupFeedback.msg
+[0m[ 33%] [34m[1mGenerating Lisp code from tf_lookup/TfStreamAction.msg
+[0m[ 35%] [34m[1mGenerating Lisp code from tf_lookup/TfStreamActionFeedback.msg
+[0m[ 37%] [34m[1mGenerating Lisp code from tf_lookup/TfLookupGoal.msg
+[0m[ 38%] [34m[1mGenerating Lisp code from tf_lookup/TfStreamActionResult.msg
+[0m[ 40%] [34m[1mGenerating Lisp code from tf_lookup/TfLookupResult.msg
+[0m[ 42%] [34m[1mGenerating Lisp code from tf_lookup/TfLookupActionResult.msg
+[0m[ 44%] [34m[1mGenerating Lisp code from tf_lookup/TfLookupAction.msg
+[0m[ 46%] [34m[1mGenerating Lisp code from tf_lookup/TfLookupActionFeedback.msg
+[0m[ 48%] [34m[1mGenerating Lisp code from tf_lookup/TfStreamResult.msg
+[0m[ 50%] [34m[1mGenerating Lisp code from tf_lookup/TfLookupActionGoal.msg
+[0m[ 51%] [34m[1mGenerating Lisp code from tf_lookup/TfStreamActionGoal.msg
+[0m[ 53%] [34m[1mGenerating Lisp code from tf_lookup/Subscription.msg
+[0m[ 55%] [34m[1mGenerating Lisp code from tf_lookup/TfStreamFeedback.msg
+[0m[ 57%] [34m[1mGenerating Lisp code from tf_lookup/TfStreamGoal.msg
+[0m[ 59%] [34m[1mGenerating Lisp code from tf_lookup/lookupTransform.srv
+[0m[ 59%] Built target tf_lookup_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_lookup_generate_messages_py
+[0m[ 61%] [34m[1mGenerating Python from MSG tf_lookup/TfLookupFeedback
+[0m[ 62%] [34m[1mGenerating Python from MSG tf_lookup/TfStreamAction
+[0m[ 64%] [34m[1mGenerating Python from MSG tf_lookup/TfStreamActionFeedback
+[0m[ 66%] [34m[1mGenerating Python from MSG tf_lookup/TfLookupGoal
+[0m[ 68%] [34m[1mGenerating Python from MSG tf_lookup/TfStreamActionResult
+[0m[ 70%] [34m[1mGenerating Python from MSG tf_lookup/TfLookupResult
+[0m[ 72%] [34m[1mGenerating Python from MSG tf_lookup/TfLookupActionResult
+[0m[ 74%] [34m[1mGenerating Python from MSG tf_lookup/TfLookupAction
+[0m[ 75%] [34m[1mGenerating Python from MSG tf_lookup/TfLookupActionFeedback
+[0m[ 77%] [34m[1mGenerating Python from MSG tf_lookup/TfStreamResult
+[0m[ 79%] [34m[1mGenerating Python from MSG tf_lookup/TfLookupActionGoal
+[0m[ 81%] [34m[1mGenerating Python from MSG tf_lookup/TfStreamActionGoal
+[0m[ 83%] [34m[1mGenerating Python from MSG tf_lookup/Subscription
+[0m[ 85%] [34m[1mGenerating Python from MSG tf_lookup/TfStreamFeedback
+[0m[ 87%] [34m[1mGenerating Python from MSG tf_lookup/TfStreamGoal
+[0m[ 88%] [34m[1mGenerating Python code from SRV tf_lookup/lookupTransform
+[0m[ 90%] [34m[1mGenerating Python msg __init__.py for tf_lookup
+[0m[ 92%] [34m[1mGenerating Python srv __init__.py for tf_lookup
+[0m[ 92%] Built target tf_lookup_generate_messages_py
+[35m[1mScanning dependencies of target tf_lookup_gencpp
+[0m[ 92%] Built target tf_lookup_gencpp
+[35m[1mScanning dependencies of target tf_lookup_generate_messages
+[0m[ 92%] Built target tf_lookup_generate_messages
+[35m[1mScanning dependencies of target tf_lookup
+[0m[ 94%] [32mBuilding CXX object CMakeFiles/tf_lookup.dir/src/tf_lookup_main.cpp.o
+[0m[ 96%] [32mBuilding CXX object CMakeFiles/tf_lookup.dir/src/tf_lookup.cpp.o
+[0m[ 98%] [32mBuilding CXX object CMakeFiles/tf_lookup.dir/src/tf_stream.cpp.o
+[0m[100%] [32mBuilding CXX object CMakeFiles/tf_lookup.dir/src/tf_stream_server.cpp.o
+[0m[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/tf_lookup/lib/tf_lookup/tf_lookup
+[0m[100%] Built target tf_lookup

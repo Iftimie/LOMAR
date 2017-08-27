@@ -1,0 +1,1 @@
+/home/iftimie/tiago_public_ws/devel/.private/tiago_aruco_demo/lib/pkgconfig/tiago_aruco_demo.pc

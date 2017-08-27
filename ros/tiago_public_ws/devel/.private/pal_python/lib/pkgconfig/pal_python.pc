@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/pal_python
+
+Name: pal_python
+Description: Description of pal_python
+Version: 0.9.8
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/pal_python/lib 
+Requires: rospy roslib rosgraph actionlib actionlib_msgs

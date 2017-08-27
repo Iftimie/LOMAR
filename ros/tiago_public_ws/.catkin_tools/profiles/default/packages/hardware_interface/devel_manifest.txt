@@ -1,0 +1,4 @@
+ros_control/hardware_interface
+/home/iftimie/tiago_public_ws/devel/.private/hardware_interface/share/hardware_interface/cmake/hardware_interfaceConfig.cmake /home/iftimie/tiago_public_ws/devel/share/hardware_interface/cmake/hardware_interfaceConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/hardware_interface/share/hardware_interface/cmake/hardware_interfaceConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/hardware_interface/cmake/hardware_interfaceConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/hardware_interface/lib/pkgconfig/hardware_interface.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/hardware_interface.pc

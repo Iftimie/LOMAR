@@ -1,0 +1,14 @@
+In file included from /usr/include/c++/4.8/backward/strstream:51:0,
+                 from /usr/include/vtk-5.8/vtkIOStream.h:112,
+                 from /usr/include/vtk-5.8/vtkSystemIncludes.h:40,
+                 from /usr/include/vtk-5.8/vtkIndent.h:24,
+                 from /usr/include/vtk-5.8/vtkObjectBase.h:43,
+                 from /usr/include/vtk-5.8/vtkObject.h:41,
+                 from /usr/include/vtk-5.8/vtkObjectFactory.h:43,
+                 from /usr/include/pcl-1.7/pcl/visualization/interactor.h:43,
+                 from /usr/include/pcl-1.7/pcl/visualization/image_viewer.h:45,
+                 from /usr/include/pcl-1.7/pcl/visualization/range_image_visualizer.h:44,
+                 from /home/iftimie/tiago_public_ws/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/region_segment.cpp:65:
+/usr/include/c++/4.8/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header which may be removed without further notice at a future date. Please use a non-deprecated interface with equivalent functionality instead. For a listing of replacement headers and interfaces, consult the file backward_warning.h. To disable this warning use -Wno-deprecated. [-Wcpp]
+ #warning \
+  ^

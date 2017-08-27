@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/tiago_description
+
+Name: tiago_description
+Description: Description of tiago_description
+Version: 0.0.35
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/tiago_description/lib 
+Requires: 

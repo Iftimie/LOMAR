@@ -1,0 +1,20 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py
+[0m[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _pal_web_msgs_generate_messages_check_deps_WebGoTo
+[0m[  0%] Built target _pal_web_msgs_generate_messages_check_deps_WebGoTo
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp
+[0m[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp
+[0m[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pal_web_msgs_generate_messages_py
+[0m[ 25%] [34m[1mGenerating Python from MSG pal_web_msgs/WebGoTo
+[0m[ 50%] [34m[1mGenerating Python msg __init__.py for pal_web_msgs
+[0m[ 50%] Built target pal_web_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pal_web_msgs_generate_messages_lisp
+[0m[ 75%] [34m[1mGenerating Lisp code from pal_web_msgs/WebGoTo.msg
+[0m[ 75%] Built target pal_web_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pal_web_msgs_generate_messages_cpp
+[0m[100%] [34m[1mGenerating C++ code from pal_web_msgs/WebGoTo.msg
+[0m[100%] Built target pal_web_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pal_web_msgs_generate_messages
+[0m[100%] Built target pal_web_msgs_generate_messages

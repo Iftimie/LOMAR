@@ -1,0 +1,7 @@
+Symlinking /home/iftimie/tiago_public_ws/devel/share/controller_manager_tests/cmake/controller_manager_testsConfig.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/controller_manager_tests/cmake/controller_manager_testsConfig-version.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/libcontroller_manager_tests.so
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/controller_manager_tests/__init__.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/controller_manager_tests/cm_test
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/controller_manager_tests/dummy_app
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/controller_manager_tests.pc

@@ -1,0 +1,1 @@
+/home/iftimie/tiago_public_ws/devel/.private/pal_gripper_controller_configuration/lib/pkgconfig/pal_gripper_controller_configuration.pc

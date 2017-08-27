@@ -1,0 +1,33 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~grasp_postures_frame_id" : \b [str] pre_grasp_posture and grasp_posture frame_id, usually the tool (previous to the gripper) min: , default: arm_tool_link, max: 
+- \b "~gripper_joint_names" : \b [str] gripper joint names min: , default: gripper_left_finger_joint gripper_right_finger_joint, max: 
+- \b "~gripper_pre_grasp_positions" : \b [str] gripper pre_grasp joint positions (same order than joint_names) min: , default: 0.05 0.05, max: 
+- \b "~gripper_grasp_positions" : \b [str] gripper pre_grasp joint positions (same order than joint_names) min: , default: 0.01 0.01, max: 
+- \b "~time_pre_grasp_posture" : \b [double] Time for the pre_grasp gripper posture to be achieved min: 0.0, default: 2.0, max: 10.0
+- \b "~time_grasp_posture" : \b [double] Time for the grasp gripper posture to be achieved (will be added to pre_grasp_posture) min: 0.0, default: 2.0, max: 10.0
+- \b "~time_grasp_posture_final" : \b [double] Time for the grasp gripper final posture to be achieved (will be added to time_grasp_posture) min: 0.0, default: 2.0, max: 10.0
+- \b "~grasp_pose_frame_id" : \b [str] grasp pose frame id is the frame where the object pose is expressed. Pose must be in the frame of MoveIt's base frame, base_footprint usually min: , default: base_footprint, max: 
+- \b "~grasp_desired_distance" : \b [double] grasp desired distance for pre grasp, post grasp and place min: 0.0, default: 0.15, max: 1.0
+- \b "~grasp_min_distance" : \b [double] grasp min distance for pre grasp, post grasp and place min: 0.0, default: 0.0, max: 1.0
+- \b "~pre_grasp_direction_x" : \b [double] Pre grasp approach x direction vector min: -1.0, default: 1.0, max: 1.0
+- \b "~pre_grasp_direction_y" : \b [double] Pre grasp approach y direction vector min: -1.0, default: 0.0, max: 1.0
+- \b "~pre_grasp_direction_z" : \b [double] Pre grasp approach z direction vector min: -1.0, default: 0.0, max: 1.0
+- \b "~post_grasp_direction_x" : \b [double] Post grasp retreat x direction vector min: -1.0, default: -1.0, max: 1.0
+- \b "~post_grasp_direction_y" : \b [double] Post grasp retreat y direction vector min: -1.0, default: 0.0, max: 1.0
+- \b "~post_grasp_direction_z" : \b [double] Post grasp retreat z direction vector min: -1.0, default: 0.0, max: 1.0
+- \b "~grasp_quality" : \b [double] grasp quality to set to the grasp min: 0.0, default: 0.1, max: 1.0
+- \b "~max_contact_force" : \b [double] max_contact_force min: -1.0, default: 0.0, max: 1.0
+- \b "~allowed_touch_objects" : \b [str] allowed_touch_objects min: , default: , max: 
+- \b "~fix_tool_frame_to_grasping_frame_roll" : \b [double] Fix the transformation of the tool_link frame to the grasping_frame roll (degrees) min: -360.0, default: 0.0, max: 360.0
+- \b "~fix_tool_frame_to_grasping_frame_pitch" : \b [double] Fix the transformation of the tool_link frame to the grasping_frame pitch (degrees) min: -360.0, default: 0.0, max: 360.0
+- \b "~fix_tool_frame_to_grasping_frame_yaw" : \b [double] Fix the transformation of the tool_link frame to the grasping_frame yaw (degrees) min: -360.0, default: 0.0, max: 360.0
+- \b "~step_degrees_yaw" : \b [int] Degrees step over yaw on generating the grasp poses min: 1, default: 10, max: 360
+- \b "~step_degrees_pitch" : \b [int] Degrees step over pitch on generating the grasp poses min: 1, default: 10, max: 360
+- \b "~min_degrees_yaw" : \b [int] Starting degrees over yaw on generating grasp poses min: 0, default: 0, max: 360
+- \b "~max_degrees_yaw" : \b [int] Stopping degrees over yaw on generating grasp poses min: 0, default: 360, max: 360
+- \b "~min_degrees_pitch" : \b [int] Starting degrees over pitch on generating grasp poses min: 0, default: 0, max: 360
+- \b "~max_degrees_pitch" : \b [int] Stopping degrees over pitch on generating grasp poses min: 0, default: 360, max: 360
+

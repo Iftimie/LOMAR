@@ -1,0 +1,4 @@
+Symlinking /home/iftimie/tiago_public_ws/devel/share/rqt_joint_trajectory_controller/cmake/rqt_joint_trajectory_controllerConfig-version.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/rqt_joint_trajectory_controller/cmake/rqt_joint_trajectory_controllerConfig.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/rqt_joint_trajectory_controller/__init__.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/rqt_joint_trajectory_controller.pc

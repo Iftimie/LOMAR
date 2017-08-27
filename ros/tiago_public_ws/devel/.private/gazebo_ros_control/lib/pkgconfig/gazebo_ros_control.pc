@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/gazebo_ros_control
+
+Name: gazebo_ros_control
+Description: Description of gazebo_ros_control
+Version: 2.6.3
+Cflags: -I/home/iftimie/tiago_public_ws/src/gazebo_ros_control/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/gazebo_ros_control/lib -lgazebo_ros_control -ldefault_robot_hw_sim
+Requires: roscpp controller_manager pluginlib transmission_interface urdf

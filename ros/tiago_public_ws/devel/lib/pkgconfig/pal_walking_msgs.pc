@@ -1,0 +1,1 @@
+/home/iftimie/tiago_public_ws/devel/.private/pal_walking_msgs/lib/pkgconfig/pal_walking_msgs.pc

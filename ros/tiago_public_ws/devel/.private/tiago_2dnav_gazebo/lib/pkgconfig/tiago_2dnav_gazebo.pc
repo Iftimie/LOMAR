@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/tiago_2dnav_gazebo
+
+Name: tiago_2dnav_gazebo
+Description: Description of tiago_2dnav_gazebo
+Version: 0.0.10
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/tiago_2dnav_gazebo/lib 
+Requires: 

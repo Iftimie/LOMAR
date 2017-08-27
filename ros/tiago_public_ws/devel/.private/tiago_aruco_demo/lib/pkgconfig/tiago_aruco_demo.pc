@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/tiago_aruco_demo
+
+Name: tiago_aruco_demo
+Description: Description of tiago_aruco_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/tiago_aruco_demo/lib 
+Requires: 

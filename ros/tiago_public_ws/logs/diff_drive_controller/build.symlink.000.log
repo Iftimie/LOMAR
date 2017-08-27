@@ -1,0 +1,16 @@
+Symlinking /home/iftimie/tiago_public_ws/devel/include/diff_drive_controller/WheelData.h
+Symlinking /home/iftimie/tiago_public_ws/devel/share/diff_drive_controller/cmake/diff_drive_controller-msg-extras.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/diff_drive_controller/cmake/diff_drive_controllerConfig.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/diff_drive_controller/cmake/diff_drive_controller-msg-paths.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/diff_drive_controller/cmake/diff_drive_controllerConfig-version.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/common-lisp/ros/diff_drive_controller/msg/_package.lisp
+Symlinking /home/iftimie/tiago_public_ws/devel/share/common-lisp/ros/diff_drive_controller/msg/WheelData.lisp
+Symlinking /home/iftimie/tiago_public_ws/devel/share/common-lisp/ros/diff_drive_controller/msg/diff_drive_controller-msg.asd
+Symlinking /home/iftimie/tiago_public_ws/devel/share/common-lisp/ros/diff_drive_controller/msg/_package_WheelData.lisp
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/libdiff_drive_controller.so
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/diff_drive_controller/__init__.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/diff_drive_controller/msg/_WheelData.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/diff_drive_controller/msg/__init__.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/diff_drive_controller/skidsteerbot
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/diff_drive_controller/diffbot
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/diff_drive_controller.pc

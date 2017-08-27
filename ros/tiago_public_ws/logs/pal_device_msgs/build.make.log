@@ -1,0 +1,51 @@
+[35m[1mScanning dependencies of target _pal_device_msgs_generate_messages_check_deps_Bumper
+[0m[  0%] Built target _pal_device_msgs_generate_messages_check_deps_Bumper
+[35m[1mScanning dependencies of target _pal_device_msgs_generate_messages_check_deps_CancelEffect
+[0m[  0%] Built target _pal_device_msgs_generate_messages_check_deps_CancelEffect
+[35m[1mScanning dependencies of target _pal_device_msgs_generate_messages_check_deps_TimedColourEffect
+[0m[  0%] Built target _pal_device_msgs_generate_messages_check_deps_TimedColourEffect
+[35m[1mScanning dependencies of target _pal_device_msgs_generate_messages_check_deps_BatteryState
+[0m[  0%] Built target _pal_device_msgs_generate_messages_check_deps_BatteryState
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py
+[0m[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _pal_device_msgs_generate_messages_check_deps_TimedBlinkEffect
+[0m[  0%] Built target _pal_device_msgs_generate_messages_check_deps_TimedBlinkEffect
+[35m[1mScanning dependencies of target _pal_device_msgs_generate_messages_check_deps_TimedFadeEffect
+[0m[  0%] Built target _pal_device_msgs_generate_messages_check_deps_TimedFadeEffect
+[35m[1mScanning dependencies of target _pal_device_msgs_generate_messages_check_deps_LedGroup
+[0m[  0%] Built target _pal_device_msgs_generate_messages_check_deps_LedGroup
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp
+[0m[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp
+[0m[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pal_device_msgs_generate_messages_py
+[0m[  4%] [34m[1mGenerating Python from MSG pal_device_msgs/LedGroup
+[0m[  8%] [34m[1mGenerating Python from MSG pal_device_msgs/Bumper
+[0m[ 13%] [34m[1mGenerating Python from MSG pal_device_msgs/BatteryState
+[0m[ 17%] [34m[1mGenerating Python code from SRV pal_device_msgs/TimedColourEffect
+[0m[ 21%] [34m[1mGenerating Python code from SRV pal_device_msgs/TimedBlinkEffect
+[0m[ 26%] [34m[1mGenerating Python code from SRV pal_device_msgs/CancelEffect
+[0m[ 30%] [34m[1mGenerating Python code from SRV pal_device_msgs/TimedFadeEffect
+[0m[ 34%] [34m[1mGenerating Python msg __init__.py for pal_device_msgs
+[0m[ 39%] [34m[1mGenerating Python srv __init__.py for pal_device_msgs
+[0m[ 39%] Built target pal_device_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pal_device_msgs_generate_messages_cpp
+[0m[ 43%] [34m[1mGenerating C++ code from pal_device_msgs/LedGroup.msg
+[0m[ 47%] [34m[1mGenerating C++ code from pal_device_msgs/Bumper.msg
+[0m[ 52%] [34m[1mGenerating C++ code from pal_device_msgs/BatteryState.msg
+[0m[ 56%] [34m[1mGenerating C++ code from pal_device_msgs/TimedColourEffect.srv
+[0m[ 60%] [34m[1mGenerating C++ code from pal_device_msgs/TimedBlinkEffect.srv
+[0m[ 65%] [34m[1mGenerating C++ code from pal_device_msgs/CancelEffect.srv
+[0m[ 69%] [34m[1mGenerating C++ code from pal_device_msgs/TimedFadeEffect.srv
+[0m[ 69%] Built target pal_device_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pal_device_msgs_generate_messages_lisp
+[0m[ 73%] [34m[1mGenerating Lisp code from pal_device_msgs/LedGroup.msg
+[0m[ 78%] [34m[1mGenerating Lisp code from pal_device_msgs/Bumper.msg
+[0m[ 82%] [34m[1mGenerating Lisp code from pal_device_msgs/BatteryState.msg
+[0m[ 86%] [34m[1mGenerating Lisp code from pal_device_msgs/TimedColourEffect.srv
+[0m[ 91%] [34m[1mGenerating Lisp code from pal_device_msgs/TimedBlinkEffect.srv
+[0m[ 95%] [34m[1mGenerating Lisp code from pal_device_msgs/CancelEffect.srv
+[0m[100%] [34m[1mGenerating Lisp code from pal_device_msgs/TimedFadeEffect.srv
+[0m[100%] Built target pal_device_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pal_device_msgs_generate_messages
+[0m[100%] Built target pal_device_msgs_generate_messages

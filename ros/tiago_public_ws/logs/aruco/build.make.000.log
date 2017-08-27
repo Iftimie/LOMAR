@@ -1,0 +1,14 @@
+[35m[1mScanning dependencies of target aruco
+[0m[ 12%] [32mBuilding CXX object CMakeFiles/aruco.dir/src/aruco/arucofidmarkers.cpp.o
+[0m[ 25%] [32mBuilding CXX object CMakeFiles/aruco.dir/src/aruco/cvdrawingutils.cpp.o
+[0m[ 37%] [32mBuilding CXX object CMakeFiles/aruco.dir/src/aruco/cameraparameters.cpp.o
+[0m[ 50%] [32mBuilding CXX object CMakeFiles/aruco.dir/src/aruco/board.cpp.o
+[0m[ 62%] [32mBuilding CXX object CMakeFiles/aruco.dir/src/aruco/marker.cpp.o
+[0m[ 75%] [32mBuilding CXX object CMakeFiles/aruco.dir/src/aruco/boarddetector.cpp.o
+[0m[ 87%] [32mBuilding CXX object CMakeFiles/aruco.dir/src/aruco/markerdetector.cpp.o
+[0m[31m[1mLinking CXX shared library /home/iftimie/tiago_public_ws/devel/.private/aruco/lib/libaruco.so
+[0m[ 87%] Built target aruco
+[35m[1mScanning dependencies of target optimalmarkers
+[0m[100%] [32mBuilding CXX object CMakeFiles/optimalmarkers.dir/src/aruco/aruco_selectoptimalmarkers.cpp.o
+[0m[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/aruco/lib/aruco/optimalmarkers
+[0m[100%] Built target optimalmarkers

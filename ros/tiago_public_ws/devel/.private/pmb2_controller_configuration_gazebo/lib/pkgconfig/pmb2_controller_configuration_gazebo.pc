@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/pmb2_controller_configuration_gazebo
+
+Name: pmb2_controller_configuration_gazebo
+Description: Description of pmb2_controller_configuration_gazebo
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/pmb2_controller_configuration_gazebo/lib 
+Requires: 

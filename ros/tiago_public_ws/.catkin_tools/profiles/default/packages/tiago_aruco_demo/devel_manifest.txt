@@ -1,0 +1,4 @@
+tiago_tutorials/tiago_aruco_demo
+/home/iftimie/tiago_public_ws/devel/.private/tiago_aruco_demo/share/tiago_aruco_demo/cmake/tiago_aruco_demoConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/tiago_aruco_demo/cmake/tiago_aruco_demoConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/tiago_aruco_demo/share/tiago_aruco_demo/cmake/tiago_aruco_demoConfig.cmake /home/iftimie/tiago_public_ws/devel/share/tiago_aruco_demo/cmake/tiago_aruco_demoConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/tiago_aruco_demo/lib/pkgconfig/tiago_aruco_demo.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/tiago_aruco_demo.pc

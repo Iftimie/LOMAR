@@ -1,0 +1,7 @@
+Symlinking /home/iftimie/tiago_public_ws/devel/share/play_motion/cmake/play_motionConfig.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/play_motion/cmake/play_motionConfig-version.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/libplay_motion_helpers.so
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/play_motion/__init__.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/play_motion.pc
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/play_motion/pm_rrbot
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/play_motion/play_motion

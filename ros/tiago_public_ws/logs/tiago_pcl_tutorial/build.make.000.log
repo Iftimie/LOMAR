@@ -1,0 +1,129 @@
+[35m[1mScanning dependencies of target tiago_pcl_tutorial
+[0m[ 11%] [32mBuilding CXX object CMakeFiles/tiago_pcl_tutorial.dir/src/pcl_filters.cpp.o
+[0m[31m[1mLinking CXX shared library /home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/libtiago_pcl_tutorial.so
+[0m[ 11%] Built target tiago_pcl_tutorial
+[35m[1mScanning dependencies of target tiago_pcl_tutorial_gencfg
+[0m[ 22%] [34m[1mGenerating dynamic reconfigure files from cfg/region.cfg: /home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/include/tiago_pcl_tutorial/regionConfig.h /home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/python2.7/dist-packages/tiago_pcl_tutorial/cfg/regionConfig.py
+[0mGenerating reconfiguration files for region in tiago_pcl_tutorial
+Wrote header file in /home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/include/tiago_pcl_tutorial/regionConfig.h
+[ 33%] [34m[1mGenerating dynamic reconfigure files from cfg/segment.cfg: /home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/include/tiago_pcl_tutorial/segmentConfig.h /home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/python2.7/dist-packages/tiago_pcl_tutorial/cfg/segmentConfig.py
+[0mGenerating reconfiguration files for segment in tiago_pcl_tutorial
+Wrote header file in /home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/include/tiago_pcl_tutorial/segmentConfig.h
+[ 33%] Built target tiago_pcl_tutorial_gencfg
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp
+[0m[ 33%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pcl_ros_gencfg
+[0m[ 33%] Built target pcl_ros_gencfg
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp
+[0m[ 33%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py
+[0m[ 33%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp
+[0m[ 33%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py
+[0m[ 33%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py
+[0m[ 33%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py
+[0m[ 33%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py
+[0m[ 33%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp
+[0m[ 33%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp
+[0m[ 33%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp
+[0m[ 33%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp
+[0m[ 33%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_py
+[0m[ 33%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp
+[0m[ 33%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp
+[0m[ 33%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp
+[0m[ 33%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp
+[0m[ 33%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target nodelet_generate_messages_cpp
+[0m[ 33%] Built target nodelet_generate_messages_cpp
+[35m[1mScanning dependencies of target nodelet_generate_messages_lisp
+[0m[ 33%] Built target nodelet_generate_messages_lisp
+[35m[1mScanning dependencies of target nodelet_generate_messages_py
+[0m[ 33%] Built target nodelet_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_py
+[0m[ 33%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_cpp
+[0m[ 33%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target topic_tools_generate_messages_lisp
+[0m[ 33%] Built target topic_tools_generate_messages_lisp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_cpp
+[0m[ 33%] Built target pcl_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_lisp
+[0m[ 33%] Built target pcl_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_py
+[0m[ 33%] Built target pcl_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp
+[0m[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg
+[0m[ 33%] [ 33%] Built target geometry_msgs_generate_messages_lisp
+Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target bond_generate_messages_cpp
+[0m[35m[1mScanning dependencies of target topic_tools_generate_messages_py
+[0m[ 33%] Built target bond_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_lisp
+[0m[ 33%] Built target topic_tools_generate_messages_py
+[ 33%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target bond_generate_messages_lisp
+[0m[ 33%] [35m[1mScanning dependencies of target bond_generate_messages_py
+[0mBuilt target bond_generate_messages_lisp
+[ 33%] Built target bond_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target topic_tools_generate_messages_cpp
+[0m[0m[ 33%] [ 33%] Built target topic_tools_generate_messages_cpp
+Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp
+[0m[35m[1mScanning dependencies of target actionlib_generate_messages_lisp
+[0m[ 33%] Built target actionlib_generate_messages_lisp
+[ 33%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_py
+[0m[ 33%] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp
+[0mBuilt target actionlib_generate_messages_py
+[ 33%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp
+[0m[ 33%] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py
+[0mBuilt target actionlib_msgs_generate_messages_lisp
+[ 33%] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_py
+Built target actionlib_msgs_generate_messages_py
+[0m[ 33%] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp
+[0mBuilt target tf2_msgs_generate_messages_py
+[ 33%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target segment_table
+[35m[1mScanning dependencies of target cylinder_detector
+[0m[0m[ 44%] [ 55%] [32mBuilding CXX object CMakeFiles/segment_table.dir/src/nodes/segment_table.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/cylinder_detector.dir/src/nodes/cylinder_detector.cpp.o
+[0m[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/tiago_pcl_tutorial/segment_table
+[0m[ 66%] [32mBuilding CXX object CMakeFiles/cylinder_detector.dir/src/tf_transforms.cpp.o
+[0m[ 66%] Built target segment_table
+[35m[1mScanning dependencies of target region_segment
+[0m[ 77%] [32mBuilding CXX object CMakeFiles/region_segment.dir/src/nodes/region_segment.cpp.o
+In file included from /usr/include/c++/4.8/backward/strstream:51:0,
+                 from /usr/include/vtk-5.8/vtkIOStream.h:112,
+                 from /usr/include/vtk-5.8/vtkSystemIncludes.h:40,
+                 from /usr/include/vtk-5.8/vtkIndent.h:24,
+                 from /usr/include/vtk-5.8/vtkObjectBase.h:43,
+                 from /usr/include/vtk-5.8/vtkObject.h:41,
+                 from /usr/include/vtk-5.8/vtkObjectFactory.h:43,
+                 from /usr/include/pcl-1.7/pcl/visualization/interactor.h:43,
+                 from /usr/include/pcl-1.7/pcl/visualization/image_viewer.h:45,
+                 from /usr/include/pcl-1.7/pcl/visualization/range_image_visualizer.h:44,
+                 from /home/iftimie/tiago_public_ws/src/tiago_tutorials/tiago_pcl_tutorial/src/nodes/region_segment.cpp:65:
+/usr/include/c++/4.8/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header which may be removed without further notice at a future date. Please use a non-deprecated interface with equivalent functionality instead. For a listing of replacement headers and interfaces, consult the file backward_warning.h. To disable this warning use -Wno-deprecated. [-Wcpp]
+ #warning \
+  ^
+[0m[ 88%] [32mBuilding CXX object CMakeFiles/cylinder_detector.dir/src/geometry.cpp.o
+[0m[100%] [32mBuilding CXX object CMakeFiles/cylinder_detector.dir/src/pcl_filters.cpp.o
+[0m[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/tiago_pcl_tutorial/cylinder_detector
+[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/tiago_pcl_tutorial/region_segment
+[0m[0m[100%] Built target region_segment
+[100%] Built target cylinder_detector

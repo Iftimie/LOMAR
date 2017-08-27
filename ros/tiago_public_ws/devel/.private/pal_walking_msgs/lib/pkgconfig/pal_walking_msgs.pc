@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/pal_walking_msgs
+
+Name: pal_walking_msgs
+Description: Description of pal_walking_msgs
+Version: 0.11.3
+Cflags: -I/home/iftimie/tiago_public_ws/devel/.private/pal_walking_msgs/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/pal_walking_msgs/lib 
+Requires: geometry_msgs humanoid_nav_msgs message_runtime

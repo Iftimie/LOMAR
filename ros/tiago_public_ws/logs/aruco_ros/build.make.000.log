@@ -1,0 +1,20 @@
+[35m[1mScanning dependencies of target aruco_ros_gencfg
+[0m[ 14%] [34m[1mGenerating dynamic reconfigure files from cfg/ArucoThreshold.cfg: /home/iftimie/tiago_public_ws/devel/.private/aruco_ros/include/aruco_ros/ArucoThresholdConfig.h /home/iftimie/tiago_public_ws/devel/.private/aruco_ros/lib/python2.7/dist-packages/aruco_ros/cfg/ArucoThresholdConfig.py
+[0mGenerating reconfiguration files for ArucoThreshold in aruco_ros
+Wrote header file in /home/iftimie/tiago_public_ws/devel/.private/aruco_ros/include/aruco_ros/ArucoThresholdConfig.h
+[ 14%] Built target aruco_ros_gencfg
+[35m[1mScanning dependencies of target double
+[0m[ 28%] [32mBuilding CXX object CMakeFiles/double.dir/src/simple_double.cpp.o
+[0m[ 42%] [32mBuilding CXX object CMakeFiles/double.dir/src/aruco_ros_utils.cpp.o
+[0m[35m[1mScanning dependencies of target marker_publisher
+[0m[ 57%] [32mBuilding CXX object CMakeFiles/marker_publisher.dir/src/marker_publish.cpp.o
+[0m[ 71%] [32mBuilding CXX object CMakeFiles/marker_publisher.dir/src/aruco_ros_utils.cpp.o
+[0m[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/aruco_ros/lib/aruco_ros/double
+[0m[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/aruco_ros/lib/aruco_ros/marker_publisher
+[0m[ 71%] Built target double
+[35m[1mScanning dependencies of target single
+[ 71%] Built target marker_publisher
+[0m[ 85%] [32mBuilding CXX object CMakeFiles/single.dir/src/simple_single.cpp.o
+[0m[100%] [32mBuilding CXX object CMakeFiles/single.dir/src/aruco_ros_utils.cpp.o
+[0m[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/aruco_ros/lib/aruco_ros/single
+[0m[100%] Built target single

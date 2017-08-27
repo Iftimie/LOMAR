@@ -1,0 +1,5 @@
+Symlinking /home/iftimie/tiago_public_ws/devel/share/controller_manager/cmake/controller_managerConfig-version.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/controller_manager/cmake/controller_managerConfig.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/libcontroller_manager.so
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/controller_manager/__init__.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/controller_manager.pc

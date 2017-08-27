@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/pal_parallel_gripper_wrapper
+
+Name: pal_parallel_gripper_wrapper
+Description: Description of pal_parallel_gripper_wrapper
+Version: 0.0.9
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/pal_parallel_gripper_wrapper/lib 
+Requires: 

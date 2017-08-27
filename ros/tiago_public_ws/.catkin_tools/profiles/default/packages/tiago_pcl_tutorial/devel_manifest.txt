@@ -1,0 +1,20 @@
+tiago_tutorials/tiago_pcl_tutorial
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/include/tiago_pcl_tutorial/segmentConfig.h /home/iftimie/tiago_public_ws/devel/include/tiago_pcl_tutorial/segmentConfig.h
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/include/tiago_pcl_tutorial/regionConfig.h /home/iftimie/tiago_public_ws/devel/include/tiago_pcl_tutorial/regionConfig.h
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/share/tiago_pcl_tutorial/cmake/tiago_pcl_tutorialConfig.cmake /home/iftimie/tiago_public_ws/devel/share/tiago_pcl_tutorial/cmake/tiago_pcl_tutorialConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/share/tiago_pcl_tutorial/cmake/tiago_pcl_tutorialConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/tiago_pcl_tutorial/cmake/tiago_pcl_tutorialConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/share/tiago_pcl_tutorial/docs/segmentConfig-usage.dox /home/iftimie/tiago_public_ws/devel/share/tiago_pcl_tutorial/docs/segmentConfig-usage.dox
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/share/tiago_pcl_tutorial/docs/regionConfig.dox /home/iftimie/tiago_public_ws/devel/share/tiago_pcl_tutorial/docs/regionConfig.dox
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/share/tiago_pcl_tutorial/docs/regionConfig.wikidoc /home/iftimie/tiago_public_ws/devel/share/tiago_pcl_tutorial/docs/regionConfig.wikidoc
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/share/tiago_pcl_tutorial/docs/regionConfig-usage.dox /home/iftimie/tiago_public_ws/devel/share/tiago_pcl_tutorial/docs/regionConfig-usage.dox
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/share/tiago_pcl_tutorial/docs/segmentConfig.dox /home/iftimie/tiago_public_ws/devel/share/tiago_pcl_tutorial/docs/segmentConfig.dox
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/share/tiago_pcl_tutorial/docs/segmentConfig.wikidoc /home/iftimie/tiago_public_ws/devel/share/tiago_pcl_tutorial/docs/segmentConfig.wikidoc
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/libtiago_pcl_tutorial.so /home/iftimie/tiago_public_ws/devel/lib/libtiago_pcl_tutorial.so
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/python2.7/dist-packages/tiago_pcl_tutorial/__init__.py /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/tiago_pcl_tutorial/__init__.py
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/python2.7/dist-packages/tiago_pcl_tutorial/cfg/regionConfig.py /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/tiago_pcl_tutorial/cfg/regionConfig.py
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/python2.7/dist-packages/tiago_pcl_tutorial/cfg/segmentConfig.py /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/tiago_pcl_tutorial/cfg/segmentConfig.py
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/python2.7/dist-packages/tiago_pcl_tutorial/cfg/__init__.py /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/tiago_pcl_tutorial/cfg/__init__.py
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/tiago_pcl_tutorial/segment_table /home/iftimie/tiago_public_ws/devel/lib/tiago_pcl_tutorial/segment_table
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/tiago_pcl_tutorial/region_segment /home/iftimie/tiago_public_ws/devel/lib/tiago_pcl_tutorial/region_segment
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/tiago_pcl_tutorial/cylinder_detector /home/iftimie/tiago_public_ws/devel/lib/tiago_pcl_tutorial/cylinder_detector
+/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/pkgconfig/tiago_pcl_tutorial.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/tiago_pcl_tutorial.pc

@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/pmb2_controller_configuration
+
+Name: pmb2_controller_configuration
+Description: Description of pmb2_controller_configuration
+Version: 1.1.6
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/pmb2_controller_configuration/lib 
+Requires: 

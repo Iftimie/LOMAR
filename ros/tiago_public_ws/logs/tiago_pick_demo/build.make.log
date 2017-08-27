@@ -1,0 +1,61 @@
+[35m[1mScanning dependencies of target tiago_pick_demo_gencfg
+[0m[  4%] [34m[1mGenerating dynamic reconfigure files from cfg/SphericalGrasp.cfg: /home/iftimie/tiago_public_ws/devel/.private/tiago_pick_demo/include/tiago_pick_demo/SphericalGraspConfig.h /home/iftimie/tiago_public_ws/devel/.private/tiago_pick_demo/lib/python2.7/dist-packages/tiago_pick_demo/cfg/SphericalGraspConfig.py
+[0mGenerating reconfiguration files for SphericalGrasp in spherical_grasps_server
+Wrote header file in /home/iftimie/tiago_public_ws/devel/.private/tiago_pick_demo/include/tiago_pick_demo/SphericalGraspConfig.h
+[  4%] Built target tiago_pick_demo_gencfg
+[35m[1mScanning dependencies of target _tiago_pick_demo_generate_messages_check_deps_PickUpPoseActionResult
+[0m[  4%] Built target _tiago_pick_demo_generate_messages_check_deps_PickUpPoseActionResult
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp
+[0m[  4%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp
+[0m[  4%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target _tiago_pick_demo_generate_messages_check_deps_PickUpPoseActionFeedback
+[0m[  4%] Built target _tiago_pick_demo_generate_messages_check_deps_PickUpPoseActionFeedback
+[35m[1mScanning dependencies of target _tiago_pick_demo_generate_messages_check_deps_PickUpPoseFeedback
+[0m[  4%] Built target _tiago_pick_demo_generate_messages_check_deps_PickUpPoseFeedback
+[35m[1mScanning dependencies of target _tiago_pick_demo_generate_messages_check_deps_PickUpPoseActionGoal
+[0m[  4%] Built target _tiago_pick_demo_generate_messages_check_deps_PickUpPoseActionGoal
+[35m[1mScanning dependencies of target _tiago_pick_demo_generate_messages_check_deps_PickUpPoseAction
+[0m[  4%] Built target _tiago_pick_demo_generate_messages_check_deps_PickUpPoseAction
+[35m[1mScanning dependencies of target _tiago_pick_demo_generate_messages_check_deps_PickUpPoseResult
+[0m[  4%] Built target _tiago_pick_demo_generate_messages_check_deps_PickUpPoseResult
+[35m[1mScanning dependencies of target _tiago_pick_demo_generate_messages_check_deps_PickUpPoseGoal
+[0m[  4%] Built target _tiago_pick_demo_generate_messages_check_deps_PickUpPoseGoal
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp
+[0m[  4%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp
+[0m[  4%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py
+[0m[  4%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py
+[0m[  4%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tiago_pick_demo_generate_messages_lisp
+[0m[  8%] [34m[1mGenerating Lisp code from tiago_pick_demo/PickUpPoseActionGoal.msg
+[0m[ 13%] [34m[1mGenerating Lisp code from tiago_pick_demo/PickUpPoseActionFeedback.msg
+[0m[ 17%] [34m[1mGenerating Lisp code from tiago_pick_demo/PickUpPoseFeedback.msg
+[0m[ 21%] [34m[1mGenerating Lisp code from tiago_pick_demo/PickUpPoseGoal.msg
+[0m[ 26%] [34m[1mGenerating Lisp code from tiago_pick_demo/PickUpPoseResult.msg
+[0m[ 30%] [34m[1mGenerating Lisp code from tiago_pick_demo/PickUpPoseActionResult.msg
+[0m[ 34%] [34m[1mGenerating Lisp code from tiago_pick_demo/PickUpPoseAction.msg
+[0m[ 34%] Built target tiago_pick_demo_generate_messages_lisp
+[35m[1mScanning dependencies of target tiago_pick_demo_generate_messages_cpp
+[0m[ 39%] [34m[1mGenerating C++ code from tiago_pick_demo/PickUpPoseActionGoal.msg
+[0m[ 43%] [34m[1mGenerating C++ code from tiago_pick_demo/PickUpPoseActionFeedback.msg
+[0m[ 47%] [34m[1mGenerating C++ code from tiago_pick_demo/PickUpPoseFeedback.msg
+[0m[ 52%] [34m[1mGenerating C++ code from tiago_pick_demo/PickUpPoseGoal.msg
+[0m[35m[1mScanning dependencies of target tiago_pick_demo_generate_messages_py
+[0m[ 56%] [34m[1mGenerating Python from MSG tiago_pick_demo/PickUpPoseActionGoal
+[0m[ 60%] [34m[1mGenerating Python from MSG tiago_pick_demo/PickUpPoseActionFeedback
+[0m[ 65%] [34m[1mGenerating C++ code from tiago_pick_demo/PickUpPoseResult.msg
+[0m[ 69%] [34m[1mGenerating Python from MSG tiago_pick_demo/PickUpPoseFeedback
+[0m[ 73%] [34m[1mGenerating Python from MSG tiago_pick_demo/PickUpPoseGoal
+[0m[ 78%] [34m[1mGenerating Python from MSG tiago_pick_demo/PickUpPoseResult
+[0m[ 82%] [34m[1mGenerating Python from MSG tiago_pick_demo/PickUpPoseActionResult
+[0m[ 86%] [34m[1mGenerating C++ code from tiago_pick_demo/PickUpPoseActionResult.msg
+[0m[ 91%] [34m[1mGenerating Python from MSG tiago_pick_demo/PickUpPoseAction
+[0m[ 95%] [34m[1mGenerating Python msg __init__.py for tiago_pick_demo
+[0m[ 95%] Built target tiago_pick_demo_generate_messages_py
+[100%] [34m[1mGenerating C++ code from tiago_pick_demo/PickUpPoseAction.msg
+[0m[100%] Built target tiago_pick_demo_generate_messages_cpp
+[35m[1mScanning dependencies of target tiago_pick_demo_generate_messages
+[0m[100%] Built target tiago_pick_demo_generate_messages

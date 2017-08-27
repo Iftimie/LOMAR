@@ -1,0 +1,8 @@
+prefix=/home/iftimie/catkin_ws/devel
+
+Name: map_msgs
+Description: Description of map_msgs
+Version: 0.0.2
+Cflags: -I/home/iftimie/catkin_ws/devel/include
+Libs: -L/home/iftimie/catkin_ws/devel/lib 
+Requires: std_msgs sensor_msgs nav_msgs

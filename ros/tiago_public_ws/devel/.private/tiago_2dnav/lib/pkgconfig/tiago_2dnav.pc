@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/tiago_2dnav
+
+Name: tiago_2dnav
+Description: Description of tiago_2dnav
+Version: 0.9.8
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/tiago_2dnav/lib 
+Requires: 

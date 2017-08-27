@@ -1,0 +1,1 @@
+/home/iftimie/tiago_public_ws/devel/.private/hey5_description/lib/pkgconfig/hey5_description.pc

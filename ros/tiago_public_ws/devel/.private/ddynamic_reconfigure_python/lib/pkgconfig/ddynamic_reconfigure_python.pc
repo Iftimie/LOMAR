@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/ddynamic_reconfigure_python
+
+Name: ddynamic_reconfigure_python
+Description: Description of ddynamic_reconfigure_python
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/ddynamic_reconfigure_python/lib 
+Requires: 

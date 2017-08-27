@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/pal_motion_model_msgs
+
+Name: pal_motion_model_msgs
+Description: Description of pal_motion_model_msgs
+Version: 0.11.3
+Cflags: -I/home/iftimie/tiago_public_ws/devel/.private/pal_motion_model_msgs/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/pal_motion_model_msgs/lib 
+Requires: message_runtime nav_msgs std_msgs

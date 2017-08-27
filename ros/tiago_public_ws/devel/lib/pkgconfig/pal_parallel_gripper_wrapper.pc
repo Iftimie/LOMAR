@@ -1,0 +1,1 @@
+/home/iftimie/tiago_public_ws/devel/.private/pal_parallel_gripper_wrapper/lib/pkgconfig/pal_parallel_gripper_wrapper.pc

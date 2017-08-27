@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial
+
+Name: tiago_pcl_tutorial
+Description: Description of tiago_pcl_tutorial
+Version: 0.0.0
+Cflags: -I/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib 
+Requires: roscpp dynamic_reconfigure sensor_msgs

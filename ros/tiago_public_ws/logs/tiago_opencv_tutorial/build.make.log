@@ -1,0 +1,36 @@
+[35m[1mScanning dependencies of target _tiago_opencv_tutorial_generate_messages_check_deps_valueMatrix
+[0m[  0%] Built target _tiago_opencv_tutorial_generate_messages_check_deps_valueMatrix
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp
+[0m[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp
+[0m[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py
+[0m[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tiago_opencv_tutorial_generate_messages_cpp
+[0m[ 12%] [34m[1mGenerating C++ code from tiago_opencv_tutorial/valueMatrix.msg
+[0m[ 12%] Built target tiago_opencv_tutorial_generate_messages_cpp
+[35m[1mScanning dependencies of target tiago_opencv_tutorial_generate_messages_lisp
+[0m[ 25%] [34m[1mGenerating Lisp code from tiago_opencv_tutorial/valueMatrix.msg
+[0m[ 25%] Built target tiago_opencv_tutorial_generate_messages_lisp
+[35m[1mScanning dependencies of target tiago_opencv_tutorial_generate_messages_py
+[0m[ 37%] [34m[1mGenerating Python from MSG tiago_opencv_tutorial/valueMatrix
+[0m[ 50%] [34m[1mGenerating Python msg __init__.py for tiago_opencv_tutorial
+[0m[ 50%] Built target tiago_opencv_tutorial_generate_messages_py
+[35m[1mScanning dependencies of target track_sequential
+[0m[ 62%] [32mBuilding CXX object CMakeFiles/track_sequential.dir/src/track_sequential.cpp.o
+[0m[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/tiago_opencv_tutorial/lib/tiago_opencv_tutorial/track_sequential
+[0m[ 62%] Built target track_sequential
+[35m[1mScanning dependencies of target corner_detection
+[0m[ 75%] [32mBuilding CXX object CMakeFiles/corner_detection.dir/src/corner_detection.cpp.o
+[0m[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/tiago_opencv_tutorial/lib/tiago_opencv_tutorial/corner_detection
+[0m[ 75%] Built target corner_detection
+[35m[1mScanning dependencies of target find_keypoints
+[0m[ 87%] [32mBuilding CXX object CMakeFiles/find_keypoints.dir/src/find_keypoints.cpp.o
+[0m[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/tiago_opencv_tutorial/lib/tiago_opencv_tutorial/find_keypoints
+[0m[ 87%] Built target find_keypoints
+[35m[1mScanning dependencies of target flann_matching
+[0m[100%] [32mBuilding CXX object CMakeFiles/flann_matching.dir/src/flann_matching.cpp.o
+[0m[31m[1mLinking CXX executable /home/iftimie/tiago_public_ws/devel/.private/tiago_opencv_tutorial/lib/tiago_opencv_tutorial/flann_matching
+[0m[100%] Built target flann_matching
+[35m[1mScanning dependencies of target tiago_opencv_tutorial_generate_messages
+[0m[100%] Built target tiago_opencv_tutorial_generate_messages

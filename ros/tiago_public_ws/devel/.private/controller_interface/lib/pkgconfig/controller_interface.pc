@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/controller_interface
+
+Name: controller_interface
+Description: Description of controller_interface
+Version: 0.2.2
+Cflags: -I/home/iftimie/tiago_public_ws/src/ros_control/controller_interface/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/controller_interface/lib 
+Requires: roscpp hardware_interface pluginlib

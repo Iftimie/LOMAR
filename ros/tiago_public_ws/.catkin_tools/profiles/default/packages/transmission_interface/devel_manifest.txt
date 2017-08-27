@@ -1,0 +1,7 @@
+ros_control/transmission_interface
+/home/iftimie/tiago_public_ws/devel/.private/transmission_interface/share/transmission_interface/cmake/transmission_interfaceConfig.cmake /home/iftimie/tiago_public_ws/devel/share/transmission_interface/cmake/transmission_interfaceConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/transmission_interface/share/transmission_interface/cmake/transmission_interfaceConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/transmission_interface/cmake/transmission_interfaceConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/transmission_interface/lib/libtransmission_interface_loader.so /home/iftimie/tiago_public_ws/devel/lib/libtransmission_interface_loader.so
+/home/iftimie/tiago_public_ws/devel/.private/transmission_interface/lib/libtransmission_interface_parser.so /home/iftimie/tiago_public_ws/devel/lib/libtransmission_interface_parser.so
+/home/iftimie/tiago_public_ws/devel/.private/transmission_interface/lib/libtransmission_interface_loader_plugins.so /home/iftimie/tiago_public_ws/devel/lib/libtransmission_interface_loader_plugins.so
+/home/iftimie/tiago_public_ws/devel/.private/transmission_interface/lib/pkgconfig/transmission_interface.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/transmission_interface.pc

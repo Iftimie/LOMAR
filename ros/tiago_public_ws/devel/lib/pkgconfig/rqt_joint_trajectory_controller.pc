@@ -1,0 +1,1 @@
+/home/iftimie/tiago_public_ws/devel/.private/rqt_joint_trajectory_controller/lib/pkgconfig/rqt_joint_trajectory_controller.pc

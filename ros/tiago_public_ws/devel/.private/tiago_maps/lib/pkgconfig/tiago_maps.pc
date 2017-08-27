@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/tiago_maps
+
+Name: tiago_maps
+Description: Description of tiago_maps
+Version: 0.9.8
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/tiago_maps/lib 
+Requires: 

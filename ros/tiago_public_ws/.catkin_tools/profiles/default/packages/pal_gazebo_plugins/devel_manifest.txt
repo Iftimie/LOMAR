@@ -1,0 +1,10 @@
+pal_gazebo_plugins
+/home/iftimie/tiago_public_ws/devel/.private/pal_gazebo_plugins/share/pal_gazebo_plugins/cmake/pal_gazebo_pluginsConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/pal_gazebo_plugins/cmake/pal_gazebo_pluginsConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/pal_gazebo_plugins/share/pal_gazebo_plugins/cmake/pal_gazebo_pluginsConfig.cmake /home/iftimie/tiago_public_ws/devel/share/pal_gazebo_plugins/cmake/pal_gazebo_pluginsConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_ros_forcetorque.so /home/iftimie/tiago_public_ws/devel/lib/libgazebo_ros_forcetorque.so
+/home/iftimie/tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_underactuated_finger.so /home/iftimie/tiago_public_ws/devel/lib/libgazebo_underactuated_finger.so
+/home/iftimie/tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_wifi_ap.so /home/iftimie/tiago_public_ws/devel/lib/libgazebo_wifi_ap.so
+/home/iftimie/tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_pal_hand.so /home/iftimie/tiago_public_ws/devel/lib/libgazebo_pal_hand.so
+/home/iftimie/tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_world_odometry.so /home/iftimie/tiago_public_ws/devel/lib/libgazebo_world_odometry.so
+/home/iftimie/tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_harness.so /home/iftimie/tiago_public_ws/devel/lib/libgazebo_harness.so
+/home/iftimie/tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/pkgconfig/pal_gazebo_plugins.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/pal_gazebo_plugins.pc

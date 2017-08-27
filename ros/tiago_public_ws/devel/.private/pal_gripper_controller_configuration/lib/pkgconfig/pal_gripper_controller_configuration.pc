@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/pal_gripper_controller_configuration
+
+Name: pal_gripper_controller_configuration
+Description: Description of pal_gripper_controller_configuration
+Version: 0.0.9
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/pal_gripper_controller_configuration/lib 
+Requires: 

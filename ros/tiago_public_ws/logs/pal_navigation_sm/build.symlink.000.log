@@ -1,0 +1,4 @@
+Symlinking /home/iftimie/tiago_public_ws/devel/share/pal_navigation_sm/cmake/pal_navigation_smConfig-version.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/share/pal_navigation_sm/cmake/pal_navigation_smConfig.cmake
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/python2.7/dist-packages/pal_navigation_sm/__init__.py
+Symlinking /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/pal_navigation_sm.pc

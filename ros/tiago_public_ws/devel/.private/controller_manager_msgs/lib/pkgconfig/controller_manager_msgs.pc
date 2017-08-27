@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/controller_manager_msgs
+
+Name: controller_manager_msgs
+Description: Description of controller_manager_msgs
+Version: 0.2.2
+Cflags: -I/home/iftimie/tiago_public_ws/devel/.private/controller_manager_msgs/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/controller_manager_msgs/lib 
+Requires: std_msgs message_runtime

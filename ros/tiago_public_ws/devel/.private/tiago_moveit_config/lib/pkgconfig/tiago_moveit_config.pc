@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/tiago_moveit_config
+
+Name: tiago_moveit_config
+Description: Description of tiago_moveit_config
+Version: 0.0.15
+Cflags: 
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/tiago_moveit_config/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/iftimie/tiago_public_ws/devel/.private/tiago_laser_sensors/lib/pkgconfig/tiago_laser_sensors.pc

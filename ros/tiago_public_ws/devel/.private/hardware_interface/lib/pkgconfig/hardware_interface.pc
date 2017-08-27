@@ -1,0 +1,8 @@
+prefix=/home/iftimie/tiago_public_ws/devel/.private/hardware_interface
+
+Name: hardware_interface
+Description: Description of hardware_interface
+Version: 0.2.2
+Cflags: -I/home/iftimie/tiago_public_ws/src/ros_control/hardware_interface/include
+Libs: -L/home/iftimie/tiago_public_ws/devel/.private/hardware_interface/lib 
+Requires: roscpp

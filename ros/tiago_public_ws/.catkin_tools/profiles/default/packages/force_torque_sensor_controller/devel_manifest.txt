@@ -1,0 +1,5 @@
+ros_controllers/force_torque_sensor_controller
+/home/iftimie/tiago_public_ws/devel/.private/force_torque_sensor_controller/share/force_torque_sensor_controller/cmake/force_torque_sensor_controllerConfig-version.cmake /home/iftimie/tiago_public_ws/devel/share/force_torque_sensor_controller/cmake/force_torque_sensor_controllerConfig-version.cmake
+/home/iftimie/tiago_public_ws/devel/.private/force_torque_sensor_controller/share/force_torque_sensor_controller/cmake/force_torque_sensor_controllerConfig.cmake /home/iftimie/tiago_public_ws/devel/share/force_torque_sensor_controller/cmake/force_torque_sensor_controllerConfig.cmake
+/home/iftimie/tiago_public_ws/devel/.private/force_torque_sensor_controller/lib/libforce_torque_sensor_controller.so /home/iftimie/tiago_public_ws/devel/lib/libforce_torque_sensor_controller.so
+/home/iftimie/tiago_public_ws/devel/.private/force_torque_sensor_controller/lib/pkgconfig/force_torque_sensor_controller.pc /home/iftimie/tiago_public_ws/devel/lib/pkgconfig/force_torque_sensor_controller.pc
