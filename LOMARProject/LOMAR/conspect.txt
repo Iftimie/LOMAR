@@ -1,0 +1,59 @@
+Received Signal Strength (RSS)
+
+The project will be a joint venture between a research group from University
+Politehnica of Bucharest (UPB) as coordinator and the IT Center for Science and Technology (CITST)
+as SME partner. 
+
+
+• data acquisition is enhanced from manual to an automated process;
+• it operates as much as possible in an unsupervised way (least number of initial assumptions on
+the layout of the setup); 
+
+ sensitivity to environment changes such as object moving
+into the building (e.g., people, furniture)
+
+For example, the robot finds the user by getting from his mobile device the radio signature; 
+the user can load the map constructed by the robot on his smartphone and use it for guidance
+
+
+
+
+
+offline and an online
+The first step 1(a) in the offline stage is to map the target area, by collecting
+fingerprints in multiple locations. A fingerprint consists of a three dimensional position and a vector
+containing the Media Access Control (MAC) address and Received Signal Strength (RSS) of each
+visible access points at that positions. 
+
+In the online stage the positioning is done by measuring the RSS
+vector at the current location 2(a) using any WLAN receiver. In the next step 2(b) an approximate
+location is calculated by comparing the MAC addresses of the currently visible access points and
+the access points seen in each cluster. 
+
+In the online stage the positioning is done by measuring the RSS
+vector at the current location 2(a) using any WLAN receiver. In the next step 2(b) an approximate
+location is calculated by comparing the MAC addresses of the currently visible access points and
+the access points seen in each cluster. 
+
+PRACTIC ANTRENARE SI TESTARE
+
+Indoor WLAN measurement data in two four-floor buildings for indoor positioning studies
+
+
+
+oamenii au incerca si triangularea
+where the emitter position is known, in here the AP positions within a building are typically unknown and
+need to be estimated beforehand, in the training stage.
+
+In all these probabilistic PL approaches, we have to solve a two-step estimation problem: 1) In the training phase, being given the database xi,y i,z i,Pi,ap, estimate the AP positions [ˆ xap, ˆ yap, ˆ zap] and the TAP AP parameters (vector of length M). 
+For example, with 200 AP per building and a 2parameter path-loss model, we only need to store 5 parameters per AP, namely [ˆ xap, ˆ yap, ˆ zap,PTap,nap]. Thus, in this example
+
+ PTap nap], where PTap is the ap-th AP transmit power and nap is the path-loss coef?cient of the apth AP. Those two parameters are related to the RSS via: Pi,ap = PTap -10naplog10di,ap + ?i,ap, 
+
+
+Create a synthetic grid [xi,y i,z i],i =1,...,N per building. This can be created for example based on maximum and mimimum coordinates stored for that building [xmin,xmax,ymin,ymax,zmin,zmax], 
+
+ All measurements were performed with a Windows tablet with WLAN receiver, where the user was selecting his/her own position via the touch screen, using the available building map on the tablet
+
+ deconvolution approaches 
+FLOOR DETECTION PROBABILITY Pd

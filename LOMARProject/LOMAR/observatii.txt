@@ -1,0 +1,6 @@
+in measurements/ building 1
+UserTrackALL_LONG nu le contine pe toate. suma de la 1 pana la 10 este 511, iar userTrackALL_LONG contine 490
+
+si nu inteleg de ce in FingerprintingData_UniversityBuilding1.mat exista o lista de 1479 fingerprints
+
+in building 1 exista 309 AP-uri

@@ -1,0 +1,183 @@
+from __future__ import print_function
+import tensorflow as tf
+import numpy as np
+from sklearn import cross_validation
+from sklearn.base import BaseEstimator, TransformerMixin
+from sklearn.model_selection import GridSearchCV
+from sklearn import preprocessing
+import gc
+
+sess = tf.Session()
+class MyTFModel(BaseEstimator,TransformerMixin):
+
+    def __init__(self,scalerY = None, input_size = 309,output_size = 3, sizes=[20,10]): #sizes is the number of hidden layers and how many layers should be
+        super(MyTFModel,self).__init__()
+        self.input_size = input_size
+        self.output_size =output_size
+        self.sizes = sizes
+        self.scalerY = scalerY
+        self.learning_rate, self.x, self.y, self.new_saver, self.optimizer, self.cost, self.pred = self.createNetwork()
+        self.runs = 0
+
+    def createNetwork(self):
+        # Parameters
+        #dropout_rate = 0.5 #rarely used
+
+        # tf Graph input and output
+        learning_rate = tf.placeholder(tf.float32, shape=[])
+        x = tf.placeholder("float", [None, self.input_size])
+        y = tf.placeholder("float", [None, self.output_size])
+        np.set_printoptions(precision=2)
+
+        # Create model
+        def multilayer_perceptron(x):
+            # Hidden layers with RELU activation
+            h1 = tf.Variable(tf.random_normal([self.input_size, self.sizes[0]], 0, 0.1))
+            b1 = tf.Variable(tf.random_normal([self.sizes[0]], 0, 0.1))
+            layer = tf.nn.relu(tf.add(tf.matmul(x,h1),b1))
+
+            for i in range(len(self.sizes)-1): #for the rest of the hidden layers
+                h = tf.Variable(tf.random_normal([self.sizes[i], self.sizes[i+1]], 0, 0.1))
+                b = tf.Variable(tf.random_normal([self.sizes[i+1]], 0, 0.1))
+                layer = tf.nn.relu(tf.add(tf.matmul(layer,h),b))
+
+            hout = tf.Variable(tf.random_normal([self.sizes[-1], self.output_size], 0, 0.1))
+            bout = tf.Variable(tf.random_normal([self.output_size], 0, 0.1))
+            out_layer = tf.add(tf.matmul(layer,hout),bout)
+
+            return out_layer
+
+        pred = multilayer_perceptron(x)
+        new_saver = tf.train.Saver()
+        cost = tf.reduce_mean(tf.square(pred - y))
+        optimizer = tf.train.AdamOptimizer(learning_rate=learning_rate).minimize(cost)
+        return learning_rate,x, y, new_saver, optimizer, cost, pred
+
+    def transform(self, X):
+        classification = sess.run(self.pred, feed_dict={self.x: X})
+        return classification
+
+    def predict(self,X):
+        classification = sess.run(self.pred, feed_dict={self.x: X})
+        return classification
+
+    def fit(self, X, y=None, **fit_params):
+        sess.run(tf.global_variables_initializer())
+        print("running a classifier %s"%(str(self.sizes)))
+        X, X_validation, y, Y_validation = cross_validation.train_test_split(X, y,test_size=0.125,random_state=12)
+        lastTrainCost = 99999999
+        LR = 0.01
+
+        for epoch in range(10000000):
+            avg_cost = 0.
+            batch_size = 10
+            total_batch = int(X.shape[0] / batch_size)  # X_train.shape[0] is total lenght (1400 or 490)
+            # Loop over all batches
+            for i in range(total_batch - 1):
+                batch_x = X[i * batch_size:(i + 1) * batch_size]
+                batch_y = y[i * batch_size:(i + 1) * batch_size]
+                # Run optimization op (backprop) and cost op (to get loss value)
+                _, c, p = sess.run([self.optimizer, self.cost, self.pred], feed_dict={self.x: batch_x, self.y: batch_y, self.learning_rate:LR})
+                # Compute average loss
+                avg_cost += c / total_batch
+
+            if epoch % 20 == 0:
+                train = sess.run(self.pred, feed_dict={self.x: X})
+                trainCost = 0
+                for predictedTrain, groundTruthTrain in zip(train, y):
+                    trainCost += (predictedTrain - groundTruthTrain).dot(predictedTrain - groundTruthTrain) / train.shape[0]
+                if trainCost > lastTrainCost:
+                    LR = LR*0.7
+                lastTrainCost = trainCost
+
+                validation = sess.run(self.pred, feed_dict={self.x: X_validation})
+                validationCost = 0
+                for predictedValidation, groundTruthValidation in zip(validation, Y_validation):
+                    validationCost += (predictedValidation - groundTruthValidation).dot(
+                        predictedValidation - groundTruthValidation) / validation.shape[0]
+                print("\r epoch %d %.2f " % (epoch,validationCost), end=" ")
+                print("sdfsfsdfsdfsdf %d" % (len(gc.get_objects())))
+
+                if (validationCost > 1.2 * trainCost):
+                    print ("Validationcost = %.2f ; Trainingcost = %.2f"%(validationCost,trainCost))
+                    del X
+                    del y
+                    break
+                #gc.collect()
+
+        print()
+        return self
+
+    def saveEstimator(self):
+        self.new_saver.save(sess, '/home/iftimie/PycharmProjects/LOMAR/LOMARProject/bestEstimator.ckpt')
+
+    def score(self,X, y, sample_weight=None):
+        testSet = sess.run(self.pred, feed_dict={self.x: X})
+        return self.compute_accuracy(testSet,y)
+
+    def compute_accuracy(self,Y_pred,Y_true):
+        projectToFloor = True
+        missclasified = 0
+        Y_pred = scalerY.inverse_transform(Y_pred)
+        Y_true = scalerY.inverse_transform(Y_true)
+        for classified, groundTruth in zip(Y_pred, Y_true):
+            if (classified[2] < 1.85):
+                if (projectToFloor):
+                    classified[2] = 0
+            elif (classified[2] < 5.55):
+                if (projectToFloor):
+                    classified[2] = 3.7
+            elif (classified[2] < 9.25):
+                if (projectToFloor):
+                    classified[2] = 7.4
+            elif (classified[2] < 20):
+                if (projectToFloor):
+                    classified[2] = 11.1
+                # groundTruth[2] = 11.otherCheckpoint
+            if (np.linalg.norm(classified - groundTruth) > 4):
+                missclasified += 1
+        print("size %d missclasified %d accuracy %.5f" % (Y_pred.shape[0],missclasified,float(Y_pred.shape[0] - missclasified) / float(Y_pred.shape[0])))
+        print ()
+        value =float(Y_pred.shape[0] - missclasified) / float(Y_pred.shape[0])
+        self.runs +=1
+        # if self.runs == 2:
+        #     del self.sizes
+        #     del self.input_size
+        #     del self.output_size
+        #     del self.scalerY
+        #     del self.learning_rate
+        #     del self.x
+        #     del self.y
+        #     del self.new_saver
+        #     del self.optimizer
+        #     del self.cost
+        #     del self.pred
+        #     del self.runs
+        return value
+
+
+X_train1 = np.load('X_train1.npy')
+Y_train1 = np.load('Y_train1.npy')
+
+scalerX = preprocessing.StandardScaler()
+X_train1 = scalerX.fit_transform(X_train1)
+scalerY = preprocessing.StandardScaler()
+Y_train1 = scalerY.fit_transform(Y_train1)
+
+# no more splitting because GridSearch is allready doing this
+first_layer = np.arange(10,21,10)
+second_layer =  np.arange(5,11,5)
+sizes =[]
+for first_size in first_layer:
+    for second_size in second_layer:
+        sizes.append([first_size,second_size])
+param_grid = [{'sizes': sizes}]
+
+clf = GridSearchCV(MyTFModel(scalerY=scalerY), param_grid,cv=5)
+clf.fit(X_train1, Y_train1)
+print(clf.best_params_)
+estimator = clf.best_estimator_
+estimator.__class__ = MyTFModel
+estimator.saveEstimator()
+
+###########################################BIG MEMORY LEAK BIG MEMORY LEAK BIG MEMORY LEAK BIG MEMORY LEAK BIG MEMORY LEAK BIG MEMORY LEAK BIG MEMORY LEAK
