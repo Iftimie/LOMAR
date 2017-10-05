@@ -34,4 +34,4 @@ The first method we tried to automate was by using a Lidar and a 2D reconstructi
 
 ## Using the robot to collect data
 We own a Tiago Robot, but so far I only had access to it's simulator. The ideea is to program the robot that is able to operate in any enviroment, even featureless. It has to cover every 30cm^2 of the floor and collect the data.
-![demo](media/project.gif)
+![demo](media/Project.gif)
