@@ -120,6 +120,58 @@ with tf.Session() as sess:
         plt.axis([0, 40, 0, 4])
         plt.ion()
 
+################################### FROM FN 
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.patches as patches
+from matplotlib.animation import FuncAnimation
+
+#output_x,y,size,dx,dy_olg_alg.csv
+#output_x,y,size,dx,dy_new_alg.csv
+x = np.loadtxt('output_x,y,size,dx,dy_olg_alg.csv', delimiter=',')
+#image = np.zeros((480,640))
+#fig,ax = plt.subplots(1)
+#ax.imshow(image)
+#for i in range(len(x)):
+#    ax.add_patch(
+#        patches.Rectangle(
+#            (x[i,0], x[i,1]),   # (x,y)
+#            x[i,2],          # width
+#            x[i,2],          # height
+#            fill=False
+#        )
+#    )
+#plt.show()
+
+fig = plt.figure()
+plt.axis('equal')
+plt.grid()
+#plt.gca().invert_xaxis()
+ax = fig.add_subplot(111)
+ax.set_xlim(0, 640)
+ax.set_ylim(0, 480)
+ax.set_ylim(ax.get_ylim()[::-1])
+
+
+#plt.axis([0, 640, 0, 480])
+plt.ion()
+old_scale = x[0,2]
+for i in range(len(x)):
+    ax.add_patch(patches.Rectangle((x[i,0], x[i,1]), x[i,2], x[i,2], fc='r',fill=False))
+    if x[i,2] != old_scale:
+        old_scale= x[i,2]
+        plt.clf()
+        plt.axis('equal')
+        plt.grid()
+        #plt.gca().invert_xaxis()
+        ax = fig.add_subplot(111)
+        ax.set_xlim(0, 640)
+        ax.set_ylim(0, 480)
+        ax.set_ylim(ax.get_ylim()[::-1])
+        #plt.axis([0, 640, 0, 480])
+    plt.pause(0.5)
+    plt.ion()
+####################################FROM FN
 
     while True:
         plt.pause(0.0005)
