@@ -8,6 +8,7 @@ from sklearn import preprocessing
 from sklearn import cross_validation
 import functions
 import matplotlib.patches as mpatches
+import os
 
 X = np.load('X.npy')
 Y = np.load('Y.npy')
@@ -56,9 +57,9 @@ with tf.Session() as sess:
 
     sess.run(tf.initialize_all_variables())
     new_saver = tf.train.Saver()
-    ckpt = tf.train.get_checkpoint_state('/media/iftimie/1602BA4902BA2E1D/big_projects/oldProjects/LOMARProject/')
+    ckpt = tf.train.get_checkpoint_state(os.path.dirname(os.path.realpath(__file__)))
     if ckpt and ckpt.model_checkpoint_path:
-        new_saver.restore(sess, ckpt.model_checkpoint_path)
+        new_saver.restore(sess, os.path.dirname(os.path.realpath(__file__)) + "/")
 
     classification = sess.run(pred, feed_dict={x_placeholder: X_test, keep_prob: 1.0})
     classification_real = scalerY.inverse_transform(classification)
@@ -86,9 +87,9 @@ with tf.Session() as sess:
     plt.xlabel('Index of the input values')
     plt.ylabel('Squared error')
     fit = np.polyfit(range(len(error_list1)), error_list1, 1)
-    plt.plot(range(len(error_list1)), range(len(error_list1)) * fit[0] + fit[1], '-',color='#F7D358')
+    plt.plot(range(len(error_list1)), np.array(range(len(error_list1))) * fit[0] + fit[1], '-',color='#F7D358')
     fit = np.polyfit(range(len(error_list2)), error_list2, 1)
-    plt.plot(range(len(error_list2)), range(len(error_list2)) * fit[0] + fit[1], '--',color='red')
+    plt.plot(range(len(error_list2)), np.array(range(len(error_list2))) * fit[0] + fit[1], '--',color='red')
     plt.plot(range(len(error_list1)), error_list1, 'y^',range(len(error_list2)), error_list2, 'r.')
     plt.savefig("color.png")
     from PIL import Image

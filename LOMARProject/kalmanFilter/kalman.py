@@ -19,7 +19,7 @@ class KalmanFilter:
                             [0,             self.dt**4/4,0,            self.dt**3/2],
                             [self.dt**3/2,  0,           self.dt**2,   0           ],
                             [0,             self.dt**3/2,0             ,self.dt**2]])#error in prediction/ covariance matrix
-        self.Ex *= self.processNoise**2
+        self.Ex = self.Ex * self.processNoise**2
         self.P = self.Ex
 
         self.A = np.array([[1, 0, self.dt, 0      ],
